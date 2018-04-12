@@ -14,7 +14,7 @@
     ],
     "require": {
         "php": ">=7.0",
-		"laudirbispo/FileAndFolder" : "1.0.1"
+		"laudirbispo/filefolder" : "1.0.1"
     },
     "autoload": {
         "psr-4": {"laudirbispo\\Uploader\\": "src/Uploader"}
