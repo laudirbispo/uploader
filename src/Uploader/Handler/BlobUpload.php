@@ -19,12 +19,19 @@ final class BlobUpload extends AbstractFileUploader
 {
 	private $saveExt = 'png';
     
-	public function __construct (string $ext = 'png') 
+    private $newFile;
+    
+	public function __construct () 
 	{
-        $this->saveExt = $ext;
 		// prevent bad startup
 		parent::__construct();
 	}
+    
+    public function saveAs(string $ext = 'png') 
+    {
+        $this->saveExt = $ext;
+        return $this;
+    }
 
 	/** 
 	 * IMPLEMENTATION OF THE ABSTRACT METHOD
@@ -32,9 +39,9 @@ final class BlobUpload extends AbstractFileUploader
 	 *
 	 * @param $rename (bool) - If true, rename files
 	 */
-	public function move($blob, ?string $name = null) : bool
+	public function move($blob, bool $rename = true) : bool
 	{
-        if (strtolower($ext) !== "png" || "jpg") {
+        if (strtolower($this->saveExt) !== "png" && "jpg") {
             $this->debug['error'][] = array(
                 'message' => "Extensão inválida.",
 				'file' => $name
@@ -45,16 +52,12 @@ final class BlobUpload extends AbstractFileUploader
         if (empty($blob)) {
             $this->debug['error'][] = array(
                 'message' => "Binário inválido.",
-				'file' => $name
+				'file' => ''
 			 );
             return false;
         }
-        
-        if (null === $name) {
-            $name = self::generateRandomName().'.'.$this->saveExt;
-        } else {
-            $name = $name.'.'.$this->saveExt;
-        }
+        // Force random name
+        $name = self::generateRandomName().'.'.$this->saveExt;
         
 		$imageDataEncoded = base64_encode(file_get_contents($blob)); 
         $imageData = base64_decode($imageDataEncoded); 
@@ -62,12 +65,39 @@ final class BlobUpload extends AbstractFileUploader
         $angle = 0;
         $rotate = imagerotate($source, $angle, 0);
          // if want to rotate the image 
-        $imageTmp = $_SERVER['DOCUMENT_ROOT'].'/tmp/'.$name;
+        $imageTmp = $this->save_path .'/'. $name;
         $imageSave = imagejpeg($rotate,$imageTmp,100); 
         imagedestroy($source);
-        return $imageTmp;
+        $this->newFile = $imageTmp;
+        return true;
 		
 	}
+    
+    public function rename(string $name) 
+    {
+        if (empty($this->newFile) || null === $this->newFile) {
+            $this->debug['error'][] = "Não há arquivos para renomear";
+            return false;
+        }
+        $ext = pathinfo($this->newFile, PATHINFO_EXTENSION);
+        $newName = $this->save_path .'/'. $name . '.' . $ext;
+        if (file_exists($newName)) {
+            $this->debug['error'][] = array(
+                'message' => "Já existe um arquivo com o nome: {$name}",
+				'file' => $this->newFile
+			 );
+            return false;
+        } else {
+            rename($this->newFile, $newName);
+            $this->newFile = $newName;
+            return true;
+        }
+    }
+    
+    public function getNewFile() : ?string 
+    {
+        return $this->newFile;
+    }
 
 	
 }

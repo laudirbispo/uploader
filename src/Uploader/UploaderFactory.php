@@ -17,12 +17,17 @@ namespace laudirbispo\Uploader;
 
 final class UploaderFactory 
 {
-	public static function create (string $handler)
+	public static function create(string $handler)
 	{
 		switch ($handler) :
 	
 			case 'images' :
 				return new Handler\ImageUpload();
+            case 'blob' :
+            case 'binary' :
+            case 'data' :
+            case 'base64' :
+				return new Handler\BlobUpload();
 			default :
 				return new Handler\FileUpload();
 		

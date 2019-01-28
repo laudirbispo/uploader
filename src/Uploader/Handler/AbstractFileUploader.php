@@ -120,22 +120,18 @@ abstract class AbstractFileUploader
 	 * @param $create (bool) - If true create a folder to upload
 	 * @return $this object
 	 */
-	public function savePath(string $path, bool $create = true)
+	public function savePath(string $path)
 	{
 		$this->save_path = Folder::normalize($path);
-		if ($create)
-		{
-			if (Folder::exists($this->save_path) && !Folder::isWritable($this->save_path))
-				$this->debug['error'] = "A pasta de destino não tem permissão de escrita.";
-			
-			if (!Folder::exists($this->save_path))
-			{
-				if (!Folder::create($this->save_path))
-					$this->debug['error'] = "Não foi possível criar o diretório de destino.";
-			}
-				
-		}
-		return $this;
+        if (!Folder::exists($this->save_path)) {
+            if (!Folder::create($this->save_path))
+                $this->debug['error'] = "Não foi possível criar o diretório de destino.";
+        } elseif (!Folder::isWritable($this->save_path)) {
+            $this->debug['error'] = "A pasta de destino não tem permissão de escrita.";
+        } else {
+           return $this; 
+        }		
+		
 	}
 	
 	/**
