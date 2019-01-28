@@ -76,22 +76,26 @@ abstract class AbstractFileUploader
 	protected $uploaded_files = [];
 	
 	
-	public function __construct ()
+	public function __construct()
 	{
+        if (!self::isActiveOnServer()) {
+            $this->debug['error'] = "Uploads não são permitidos.";
+        }
 		$this->mime_types = require_once(dirname(__FILE__).'/../mime_types.php');
 	}
 	
 	/** 
 	 * Validate files and upload
-	 *
-	 * @param mixed $rename - 
+	 * 
+     * @param mixed $files
+	 * @param mixed $rename 
 	 */
-	abstract public function move (array $files, bool $rename = false);
+	abstract public function move($files, bool $rename = false);
 	
 	/**
 	 * Prevent overloading
 	 */
-	public function __call (string $name , array $arguments)
+	public function __call(string $name , array $arguments)
 	{
 		return $this;
 	}
@@ -103,7 +107,7 @@ abstract class AbstractFileUploader
 	 * @param $size (int|string) - The file path
 	 * @return $this object
 	 */
-	public function maxSize ($size)
+	public function maxSize($size)
 	{
 		$this->max_size = $size;
 		return $this;
@@ -116,7 +120,7 @@ abstract class AbstractFileUploader
 	 * @param $create (bool) - If true create a folder to upload
 	 * @return $this object
 	 */
-	public function savePath (string $path, bool $create = true)
+	public function savePath(string $path, bool $create = true)
 	{
 		$this->save_path = Folder::normalize($path);
 		if ($create)
@@ -141,7 +145,7 @@ abstract class AbstractFileUploader
 	 * @param $separator (string) - The separator of the string
 	 * @return $this object
 	 */
-	public function allowedExtensions ($extensions, string $separator = ',' )
+	public function allowedExtensions($extensions, string $separator = ',' )
 	{
 		if (is_array($extensions))
 			$this->allowed_extensions = $extensions;
@@ -153,7 +157,7 @@ abstract class AbstractFileUploader
 	/**
 	 * Set prefix to file name
 	 */
-	public function prefix (string $prefix = '')
+	public function prefix(string $prefix = '')
 	{
 		$this->prefix = $prefix;
 		return $this;
@@ -164,7 +168,7 @@ abstract class AbstractFileUploader
 	 *
      * @return int|null
      */
-    public function getPostMaxSizeBytes ()
+    public function getPostMaxSizeBytes()
     {
         $post_max_size = ini_get('post_max_size');
         $bytes       = (int) trim($post_max_size);
@@ -182,50 +186,50 @@ abstract class AbstractFileUploader
         return $bytes;
     }
 	
-	public function isValidFile ()
+	public function isValidFile()
 	{
 		/**
 		 * IMPORTANT
 		 * 
 		 * This should be the first step of the verification
 		 */
-		if ($this->file['error'] !== 0)
-		{
-			$this->debug['error'][] = array('message' => $this->getUploadError($this->file['error']),
-										    'file' => $this->file['name']
-										   );
+		if ($this->file['error'] !== 0) {
+			$this->debug['error'][] = array(
+                'message' => $this->getUploadError($this->file['error']),
+				'file' => $this->file['name']
+			);
 			return false;
 		}
 		
-		if (!isset($this->file['name']) || empty($this->file['name']))
-		{
-			$this->debug['error'][] = array('message' => "Nenhum arquivo foi selecionado.",
-										    'file' => ''
-										   );
+		if (!isset($this->file['name']) || empty($this->file['name'])) {
+			$this->debug['error'][] = array(
+                'message' => "Nenhum arquivo foi selecionado.",
+				'file' => ''
+			 );
 			return false;
 		}
 		
-		if (!$this->checkExtension())
-		{
-			$this->debug['error'][] = array('message' => "Este tipo de arquivo não é permitido.",
-										    'file' => $this->file['name']
-										   );
+		if (!$this->checkExtension()) {
+			$this->debug['error'][] = array(
+                'message' => "Este tipo de arquivo não é permitido.",
+				'file' => $this->file['name']
+			);
 			return false;
 		}
 		
-		if (!$this->checkSize())
-		{
-			$this->debug['error'][] = array('message' => sprintf("Este arquivo ultrapassa o tamanho máximo permitido de %s.", self::convertSizeToHumans($this->max_size)),
-										    'file' => $this->file['name']
-										   );
+		if (!$this->checkSize()) {
+			$this->debug['error'][] = array(
+                'message' => sprintf("Este arquivo ultrapassa o tamanho máximo permitido de %s.", self::convertSizeToHumans($this->max_size)),
+				'file' => $this->file['name']
+			);
 			return false;
 		}
 		
-		if (!$this->checkMime())
-		{
-			$this->debug['error'][] = array('message' => "Este tipo de arquivo não é permitido. Uma verificação mais rigorosa deste arquivo indicou que este pode ser uma ameaça à segurança.",
-										    'file' => $this->file['name']
-										   );
+		if (!$this->checkMime()) {
+			$this->debug['error'][] = array(
+                'message' => "Este tipo de arquivo não é permitido.",
+				'file' => $this->file['name']
+			);
 			return false;
 		}
 		
@@ -235,7 +239,7 @@ abstract class AbstractFileUploader
 	/**
 	 * Check file size
 	 */
-	protected function checkSize () : bool
+	protected function checkSize() : bool
 	{
 		return ($this->file['size'] > $this->max_size) ? false : true;
 	}
@@ -243,7 +247,7 @@ abstract class AbstractFileUploader
 	/**
 	 * Check if extension is allowed
 	 */ 
-	protected function checkExtension () : bool
+	protected function checkExtension() : bool
 	{
 		$ext = strtolower($this->file['extension']);		
 		return (in_array($ext, array_map('strtolower', $this->allowed_extensions)));
@@ -254,14 +258,13 @@ abstract class AbstractFileUploader
 	 *
 	 * @return bool 
 	 */
-	protected function checkMime () : bool
+	protected function checkMime() : bool
 	{
 		$ext = strtolower($this->file['extension']);
 		if (empty($ext) || empty($this->file['type']))
 			return false;
 		
-		if (isset($this->mime_types[$ext]))
-		{
+		if (isset($this->mime_types[$ext])) {
 			if (is_array($this->mime_types[$ext]))
 				return (in_array($this->file['type'], $this->mime_types[$ext]));
 			else
@@ -273,7 +276,7 @@ abstract class AbstractFileUploader
 	/**
 	 * Move uploaded file
 	 */
-	protected function moveUpload (bool $rename)
+	protected function moveUpload(bool $rename)
 	{
 		// Rename the file
 		if (true === $rename)
@@ -283,23 +286,23 @@ abstract class AbstractFileUploader
 
 		$destination = $this->save_path . DIRECTORY_SEPARATOR . $name;
 		
-		if (move_uploaded_file($this->file['tmp_name'], $destination))
-		{
-			$this->debug['success'][] = array('message' => "Upload bem sussuedido!",
-											  'file' => $this->file['name']
-											 );
+		if (move_uploaded_file($this->file['tmp_name'], $destination)) {
+			$this->debug['success'][] = array(
+                'message' => "Upload bem sussuedido!",
+				'file' => $this->file['name']
+			 );
 
-			$this->uploaded_files[] = array('old_file' => $this->file['name'],
-											'new_file' => $name,
-											'path' => $destination
-										   );
+			$this->uploaded_files[] = array(
+                'old_file' => $this->file['name'],
+				'new_file' => $name,
+				'path' => $destination
+			);
 			return true;
-		}
-		else
-		{
-			$this->debug['error'][] = array('message' => "Falha no upload.",
-											  'file' => $this->file['name']
-											 );
+		} else {
+			$this->debug['error'][] = array(
+                'message' => "Falha no upload.",
+				'file' => $this->file['name']
+			);
 			return false;
 		}
 		
@@ -309,13 +312,11 @@ abstract class AbstractFileUploader
 	 * THIS IS A FINAL METHOD
 	 * The cleanest way to rearrange the $_FILES
 	 */
-	final protected function rearrange (array $array_files)
+	final protected function rearrange(array $array_files)
 	{
 		$new_array = [];
-		foreach($array_files as $key => $all)
-		{
-			foreach($all as $i => $val)
-			{
+		foreach($array_files as $key => $all) {
+			foreach($all as $i => $val) {
 				$new_array[$i][$key] = $val;    
 			}    
 		}
@@ -364,7 +365,7 @@ abstract class AbstractFileUploader
 	 *
 	 * @return mixed array|null
 	 */
-	public function getErrors () 
+	public function getErrors() 
 	{
 		if (isset($this->debug['error']))
 			return $this->debug['error'];
@@ -377,7 +378,7 @@ abstract class AbstractFileUploader
 	 *
 	 * @return mixed array|null
 	 */
-	public function getUploadedFiles ()
+	public function getUploadedFiles()
 	{
 		if (count($this->uploaded_files) > 0)
 			return $this->uploaded_files;
@@ -392,7 +393,7 @@ abstract class AbstractFileUploader
 	/**
 	 * Check if the upload has been active in the server
 	 */
-	public static function isActiveOnServer () : bool
+	public static function isActiveOnServer() : bool
 	{
 		return (ini_get('file_uploads') === '1') ? true : false;
 	}

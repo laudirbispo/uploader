@@ -68,10 +68,9 @@ final class ImageUpload extends AbstractFileUploader
 	 * @param int $width - the width 
 	 * @param int $width - the height
 	 */
-	public function exactDimension (int $width, int $height)
+	public function exactDimension(int $width, int $height)
 	{
-		if (is_int($width) && is_int($height))
-		{
+		if (is_int($width) && is_int($height)) {
 			$this->exact_dimension['width'] = $width;
 			$this->exact_dimension['height'] = $height;
 		}
@@ -84,16 +83,13 @@ final class ImageUpload extends AbstractFileUploader
 	 * @param int $width - the maximum width allowed on the image
 	 * @param int $width - the maximum height allowed on the image
 	 */
-	public function maxDimension (int $width, int $height)
+	public function maxDimension(int $width, int $height)
 	{
-		if (is_int($width) && is_int($height))
-		{
+		if (is_int($width) && is_int($height)) {
 			$this->max_width = $width;
 			$this->max_height = $height;
 		}
-		
 		return $this;
-
 	}
 	
 	/**
@@ -102,16 +98,13 @@ final class ImageUpload extends AbstractFileUploader
 	 * @param int $width - the maximum width allowed on the image
 	 * @param int $width - the maximum height allowed on the image
 	 */
-	public function minDimension (int $width, int $height)
+	public function minDimension(int $width, int $height)
 	{
-		if (is_int($width) && is_int($height))
-		{
+		if (is_int($width) && is_int($height)) {
 			$this->min_width = $width;
 			$this->min_height = $height;
 		}
-		
 		return $this;
-
 	}
 	
 	/** 
@@ -120,61 +113,61 @@ final class ImageUpload extends AbstractFileUploader
 	 *
 	 * @param $rename (bool) - If true, rename files
 	 */
-	public function move (array $files, bool $rename = false)
+	public function move($files, bool $rename = false)
 	{
 		// Reset list of recently uploaded files
 		$this->uploaded_files = [];
 		
-		// Reorganize array to facilitate the process
-		$files = $this->rearrange($files);
-		
-		foreach ($files as $file)
-		{
-			$this->file = $file;
-			$this->file['extension'] = pathinfo($file['name'], PATHINFO_EXTENSION);
-			
-			// Use this method to validate the normal properties of the file
-			if (!$this->isValidFile())
-				continue;
-			
-			// This method validate the specific image files
-			if (!$this->isValidImage())
-				continue;
+        if (is_array($files)) {
+            // Reorganize array to facilitate the process
+            $files = $this->rearrange($files);
 
-			//  Triy uploading the file
-			$this->moveUpload($rename);
-
-			continue;
-		}
-		
+            foreach ($files as $file) {
+                $this->file = $file;
+                $this->file['extension'] = pathinfo($file['name'], PATHINFO_EXTENSION);
+                // Use this method to validate the normal properties of the file
+                if (!$this->isValidFile())
+                    continue;
+                // This method validate the specific image files
+                if (!$this->isValidImage())
+                    continue;
+                //  Triy uploading the file
+                $this->moveUpload($rename);
+                continue;
+            }
+        } else {
+            // Use this method to validate the normal properties of the file
+            if (!$this->isValidFile())
+                continue;
+            //  Triy uploading the file
+            $this->moveUpload($rename);
+            continue;
+        }
 		return;
-		
 	}
 	
 	
 	/**
 	 * Make sure the image does not exceed the allowed dimensions
 	 */
-	private function isValidImage () : bool
+	private function isValidImage() : bool
 	{
 		/**
 		 * Make sure the file is an image
 		 */
-		if (!in_array($this->file['type'], $this->images_mimes))
-		{
-			$this->debug['error'][] = array('message' => "Não é uma imagem válida.",
-										    	'file' => $this->file['name']
-										   	   );
+		if (!in_array($this->file['type'], $this->images_mimes)) {
+			$this->debug['error'][] = array(
+                'message' => "Não é uma imagem válida.",
+				'file' => $this->file['name']
+			);
 			return false;
 		}
 		
 		// Make sure that the image has the exact dimension required
 		list($width, $height) = @getimagesize($this->file['tmp_name']);
 		
-		if (null !== $this->exact_dimension)
-		{
-			if ($width !== $this->exact_dimension['width'] || $height !== $this->exact_dimension['height'])
-			{
+		if (null !== $this->exact_dimension) {
+			if ($width !== $this->exact_dimension['width'] || $height !== $this->exact_dimension['height']) {
 				$this->debug['error'][] = array('message' => "Esta imagem deve ser exatamente {$this->exact_dimension['width']}x{$this->exact_dimension['height']}px.",
 										    	'file' => $this->file['name']
 										   	   );
@@ -184,8 +177,7 @@ final class ImageUpload extends AbstractFileUploader
 		}
 
 		// Make sure that the image does not exceeded the maximum width and height allowed
-		if ($width > $this->max_width || $height > $this->max_height)
-		{
+		if ($width > $this->max_width || $height > $this->max_height) {
 			$this->debug['error'][] = array('message' => "Esta imagem ultrapassa as dimensões permitidas. Sua largura máxima deve ser {$this->max_width}px e sua altura {$this->max_height}px.",
 										    'file' => $this->file['name']
 										   );
@@ -193,11 +185,11 @@ final class ImageUpload extends AbstractFileUploader
 		}
 		
 		// Make sure that the image reaches the minimum width and height requireds
-		if ($width < $this->min_width || $height < $this->min_width)
-		{
-			$this->debug['error'][] = array('message' => "Esta imagem é menor que as dimensões requeridas. Sua largura mínima deve ser {$this->min_width}px e sua altura {$this->min_height}px.",
-										    'file' => $this->file['name']
-										   );
+		if ($width < $this->min_width || $height < $this->min_width) {
+			$this->debug['error'][] = array(
+                'message' => "Esta imagem é menor que as dimensões requeridas. Sua largura mínima deve ser {$this->min_width}px e sua altura {$this->min_height}px.",
+				'file' => $this->file['name']
+            );
 			return false;
 		}
 		

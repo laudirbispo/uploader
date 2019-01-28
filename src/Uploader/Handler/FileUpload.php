@@ -1,6 +1,5 @@
 <?php declare(strict_types=1);
 namespace laudirbispo\Uploader\Handler;
-
 /**
  * Copyright (c) Laudir Bispo  (laudirbispo@outlook.com)
  * 
@@ -30,29 +29,33 @@ final class FileUpload extends AbstractFileUploader
 	 *
 	 * @param $rename (bool) - If true, rename files
 	 */
-	public function move (array $files, bool $rename = false)
+	public function move($files, bool $rename = false)
 	{
 		// Reset list of recently uploaded files
 		$this->uploaded_files = [];
 		
-		// Reorganize array to facilitate the process
-		$files = $this->rearrange($files);
-		
-		foreach ($files as $file)
-		{
-			$this->file = $file;
-			$this->file['extension'] = pathinfo($file['name'], PATHINFO_EXTENSION);
-			
-			// Use this method to validate the normal properties of the file
-			if (!$this->isValidFile())
-				continue;
-					
-			//  Triy uploading the file
-			$this->moveUpload($rename);
+        if (is_array($files)) {
+            // Reorganize array to facilitate the process
+            $files = $this->rearrange($files);
 
-			continue;
-		}
-		
+            foreach ($files as $file) {
+                $this->file = $file;
+                $this->file['extension'] = pathinfo($file['name'], PATHINFO_EXTENSION);
+                // Use this method to validate the normal properties of the file
+                if (!$this->isValidFile())
+                    continue;
+                //  Triy uploading the file
+                $this->moveUpload($rename);
+                continue;
+            }
+        } else {
+            // Use this method to validate the normal properties of the file
+            if (!$this->isValidFile())
+                continue;
+            //  Triy uploading the file
+            $this->moveUpload($rename);
+            continue;
+        }
 		return;
 		
 	}
