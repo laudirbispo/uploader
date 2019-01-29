@@ -13,7 +13,6 @@ namespace laudirbispo\Uploader\Handler;
  *
  * @package laudirbispo/Uploader - This file is part of the Uploader package.
  */
-use Exception;
 
 final class BlobUpload extends AbstractFileUploader 
 {
@@ -65,15 +64,23 @@ final class BlobUpload extends AbstractFileUploader
         $angle = 0;
         $rotate = imagerotate($source, $angle, 0);
          // if want to rotate the image 
-        $imageTmp = $this->save_path .'/'. $name;
-        $imageSave = imagejpeg($rotate,$imageTmp,100); 
+        $newImage = $this->save_path .'/'. $name;
+        $this->newFile = $newImage;
+        $file = $newImage;
+        if (file_exists($file)) {
+            $this->debug['error'][] = array(
+                'message' => "Já existe um arquivo com o este nome",
+				'file' => $this->newFile
+			 );
+            return false;
+        }
+        $imageSave = imagejpeg($rotate, $file, 100); 
         imagedestroy($source);
-        $this->newFile = $imageTmp;
         return true;
 		
 	}
     
-    public function rename(string $name) 
+    public function rename(string $name) : bool
     {
         if (empty($this->newFile) || null === $this->newFile) {
             $this->debug['error'][] = "Não há arquivos para renomear";
@@ -92,6 +99,14 @@ final class BlobUpload extends AbstractFileUploader
             $this->newFile = $newName;
             return true;
         }
+    }
+    
+    /**
+     * Delete failed upload
+     */
+    public function rollback() : bool 
+    {
+        return unlink($this->newFile);
     }
     
     public function getNewFile() : ?string 
