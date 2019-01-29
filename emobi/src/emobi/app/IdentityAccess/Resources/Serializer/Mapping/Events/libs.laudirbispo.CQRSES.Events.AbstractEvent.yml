@@ -1,9 +1,0 @@
-libs\laudirbispo\CQRSES\Events\AbstractEvent:
-    exclusion_policy: ALL
-
-    properties:
-        aggregateId:
-            type: string
-            
-        executedBy:
-            type: string

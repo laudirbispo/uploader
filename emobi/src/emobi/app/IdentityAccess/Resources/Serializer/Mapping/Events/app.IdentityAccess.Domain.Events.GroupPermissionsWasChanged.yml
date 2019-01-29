@@ -1,9 +1,0 @@
-app\IdentityAccess\Domain\Events\GroupPermissionsWasChanged:
-    exclusion_policy: ALL
-
-    properties:
-        aggregateId:
-            type: string
-        
-        permissions:
-            type: string
