@@ -20,6 +20,8 @@ final class BlobUpload extends AbstractFileUploader
     
     private $newFile;
     
+    private $imageName;
+    
 	public function __construct () 
 	{
 		// prevent bad startup
@@ -57,6 +59,7 @@ final class BlobUpload extends AbstractFileUploader
         }
         // Force random name
         $name = self::generateRandomName().'.'.$this->saveExt;
+        $this->imageName = $name;
         
 		$imageDataEncoded = base64_encode(file_get_contents($blob)); 
         $imageData = base64_decode($imageDataEncoded); 
@@ -97,6 +100,7 @@ final class BlobUpload extends AbstractFileUploader
         } else {
             rename($this->newFile, $newName);
             $this->newFile = $newName;
+            $this->imageName = $name . '.' . $ext;
             return true;
         }
     }
@@ -114,5 +118,9 @@ final class BlobUpload extends AbstractFileUploader
         return $this->newFile;
     }
 
+    public function getFileName() : ?string 
+    {
+        return $this->imageName;
+    }
 	
 }
