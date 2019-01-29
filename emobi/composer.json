@@ -1,0 +1,23 @@
+{
+    "name": "laudirbispo/emobir",
+    "description": "The Domain Driven Design and Oxagonal Architecture",
+    "keywords": ["DDD, Oxagonal Architecture"],
+    "type": "library",
+	"version": "1.0.0",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Laudir Bispo",
+            "email": "laudirbispo@outlook.com",
+            "homepage": "https://www.facebook.com/laudirbispo"
+        }
+    ],
+    "require": {
+        "php": ">=7.0",
+		"laudirbispo/filefolder" : "1.0.1"
+    },
+    "autoload": {
+        "psr-4": {"laudirbispo\\Uploader\\": "src/Uploader"}
+    }
+
+}

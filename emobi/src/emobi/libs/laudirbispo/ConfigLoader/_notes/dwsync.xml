@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="ConfigLoader.php" server="C:/wamp64/www/" local="131787271840040427" remote="131787271840000000" Dst="1" />
+<file name="PhpFileConfigLoader.php" server="C:/wamp64/www/" local="131799562843031625" remote="131799562840000000" Dst="1" />
+<file name="ConfigLoaderException.php" server="C:/wamp64/www/" local="131786563115107830" remote="131786563110000000" Dst="1" />
+<file name="AbstractFileLoader.php" server="C:/wamp64/www/" local="131787197023251626" remote="131787197020000000" Dst="1" />
+<file name="ArrayConfigLoader.php" server="C:/wamp64/www/" local="131786653840032268" remote="131786653840000000" Dst="1" />
+<file name="JsonFileConfigLoader.php" server="C:/wamp64/www/" local="131787229189351863" remote="131787229180000000" Dst="1" />
+<file name="FileLoadable.php" server="C:/wamp64/www/" local="131786653618001551" remote="131786653610000000" Dst="1" />
+<file name="IniFileConfigLoader.php" server="C:/wamp64/www/" local="131787229054551362" remote="131787229050000000" Dst="1" />
+<file name="LICENSE.txt" server="C:/wamp64/www/" local="131680439454904438" remote="131680439450000000" Dst="1" />
+<file name="AbstractFileLoader.php" server="C:/wamp64/www/emobi/" local="131787197040000000" remote="131787161040000000" Dst="2" />
+<file name="ArrayConfigLoader.php" server="C:/wamp64/www/emobi/" local="131786653860000000" remote="131786617860000000" Dst="2" />
+<file name="ConfigLoader.php" server="C:/wamp64/www/emobi/" local="131787271860000000" remote="131787235860000000" Dst="2" />
+<file name="ConfigLoaderException.php" server="C:/wamp64/www/emobi/" local="131786563120000000" remote="131786527120000000" Dst="2" />
+<file name="FileLoadable.php" server="C:/wamp64/www/emobi/" local="131786653620000000" remote="131786617620000000" Dst="2" />
+<file name="IniFileConfigLoader.php" server="C:/wamp64/www/emobi/" local="131787229060000000" remote="131787193060000000" Dst="2" />
+<file name="JsonFileConfigLoader.php" server="C:/wamp64/www/emobi/" local="131787229200000000" remote="131787193200000000" Dst="2" />
+<file name="LICENSE.txt" server="C:/wamp64/www/emobi/" local="131680439460000000" remote="131680403460000000" Dst="2" />
+<file name="PhpFileConfigLoader.php" server="C:/wamp64/www/emobi/" local="131799562860000000" remote="131799526860000000" Dst="2" />
+</dwsync>

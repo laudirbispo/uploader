@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AdvancedMetadataFactoryInterface.php" server="C:/wamp64/www/" local="131726726466366587" remote="131726726460000000" Dst="1" />
+<file name="ClassHierarchyMetadata.php" server="C:/wamp64/www/" local="131726726467636792" remote="131726726460000000" Dst="1" />
+<file name="ClassMetadata.php" server="C:/wamp64/www/" local="131726726467786431" remote="131726726460000000" Dst="1" />
+<file name="MergeableClassMetadata.php" server="C:/wamp64/www/" local="131726726468963284" remote="131726726460000000" Dst="1" />
+<file name="MergeableInterface.php" server="C:/wamp64/www/" local="131726726469032777" remote="131726726460000000" Dst="1" />
+<file name="MetadataFactory.php" server="C:/wamp64/www/" local="131726726469202345" remote="131726726460000000" Dst="1" />
+<file name="MetadataFactoryInterface.php" server="C:/wamp64/www/" local="131726726469287184" remote="131726726460000000" Dst="1" />
+<file name="MethodMetadata.php" server="C:/wamp64/www/" local="131726726469417147" remote="131726726460000000" Dst="1" />
+<file name="NullMetadata.php" server="C:/wamp64/www/" local="131726726469496949" remote="131726726460000000" Dst="1" />
+<file name="PropertyMetadata.php" server="C:/wamp64/www/" local="131726726469626588" remote="131726726460000000" Dst="1" />
+<file name="Version.php" server="C:/wamp64/www/" local="131726726469706061" remote="131726726460000000" Dst="1" />
+<file name="AdvancedMetadataFactoryInterface.php" server="C:/wamp64/www/emobi/" local="131927358772807799" remote="131927358770000000" Dst="2" />
+<file name="ClassHierarchyMetadata.php" server="C:/wamp64/www/emobi/" local="131927358773709016" remote="131927358770000000" Dst="2" />
+<file name="ClassMetadata.php" server="C:/wamp64/www/emobi/" local="131927358773905488" remote="131927358770000000" Dst="2" />
+<file name="MergeableClassMetadata.php" server="C:/wamp64/www/emobi/" local="131927358775207215" remote="131927358770000000" Dst="2" />
+<file name="MergeableInterface.php" server="C:/wamp64/www/emobi/" local="131927358775308024" remote="131927358770000000" Dst="2" />
+<file name="MetadataFactory.php" server="C:/wamp64/www/emobi/" local="131927358775407788" remote="131927358770000000" Dst="2" />
+<file name="MetadataFactoryInterface.php" server="C:/wamp64/www/emobi/" local="131927358775609341" remote="131927358770000000" Dst="2" />
+<file name="MethodMetadata.php" server="C:/wamp64/www/emobi/" local="131927358775707361" remote="131927358770000000" Dst="2" />
+<file name="NullMetadata.php" server="C:/wamp64/www/emobi/" local="131927358775809918" remote="131927358770000000" Dst="2" />
+<file name="PropertyMetadata.php" server="C:/wamp64/www/emobi/" local="131927358775908318" remote="131927358770000000" Dst="2" />
+<file name="Version.php" server="C:/wamp64/www/emobi/" local="131927358776107093" remote="131927358770000000" Dst="2" />
+</dwsync>

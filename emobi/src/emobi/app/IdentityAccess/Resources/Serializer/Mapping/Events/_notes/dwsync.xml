@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="libs.laudirbispo.CQRSES.Events.AbstractEvent.yml" server="C:/wamp64/www/emobi/" local="131919371966259365" remote="131919371960000000" Dst="2" />
+<file name="app.IdentityAccess.Domain.Events.GroupPermissionsWasChanged.yml" server="C:/wamp64/www/emobi/" local="131916859335599733" remote="131916859330000000" Dst="2" />
+<file name="app.IdentityAccess.Domain.Events.GroupWasChanged.yml" server="C:/wamp64/www/emobi/" local="131916859640097150" remote="131916859640000000" Dst="2" />
+<file name="app.IdentityAccess.Domain.Events.GroupWasCreated.yml" server="C:/wamp64/www/emobi/" local="131916859736166200" remote="131916859730000000" Dst="2" />
+<file name="app.IdentityAccess.Domain.Events.AccountWasCreatedByAdmin.yml" server="C:/wamp64/www/emobi/" local="131919664386219204" remote="131919664380000000" Dst="2" />
+<file name="app.IdentityAccess.Domain.Events.ProfileWasCreated.yml" server="C:/wamp64/www/emobi/" local="131917030155840688" remote="131917030150000000" Dst="2" />
+<file name="app.IdentiryAccess.Domain.Events.UserWasAddedToTheGroup.yml" server="C:/wamp64/www/emobi/" local="131919667065514359" remote="131919667060000000" Dst="2" />
+<file name="app.IdentityAccess.Domain.Events.ProfileWasChanged.yml" server="C:/wamp64/www/emobi/" local="131928366497733135" remote="131928366490000000" Dst="2" />
+<file name="app.IdentityAccess.Domain.Events.PasswordWasChanged.yml" server="C:/wamp64/www/emobi/" local="131928367909246799" remote="131928367900000000" Dst="2" />
+</dwsync>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AbstractCache.php" server="C:/wamp64/www/" local="131780359130053250" remote="131780359130000000" Dst="1" />
+<file name="ApcuCache.php" server="C:/wamp64/www/" local="131780359130134102" remote="131780359130000000" Dst="1" />
+<file name="ArrayCache.php" server="C:/wamp64/www/" local="131780359130315326" remote="131780359130000000" Dst="1" />
+<file name="ChainCache.php" server="C:/wamp64/www/" local="131780359130455684" remote="131780359130000000" Dst="1" />
+<file name="DoctrineCache.php" server="C:/wamp64/www/" local="131780359130516082" remote="131780359130000000" Dst="1" />
+<file name="FilesystemCache.php" server="C:/wamp64/www/" local="131780359130611855" remote="131780359130000000" Dst="1" />
+<file name="MemcachedCache.php" server="C:/wamp64/www/" local="131780359130611855" remote="131780359130000000" Dst="1" />
+<file name="NullCache.php" server="C:/wamp64/www/" local="131780359130713658" remote="131780359130000000" Dst="1" />
+<file name="PdoCache.php" server="C:/wamp64/www/" local="131780359130815356" remote="131780359130000000" Dst="1" />
+<file name="PhpArrayCache.php" server="C:/wamp64/www/" local="131780359130911688" remote="131780359130000000" Dst="1" />
+<file name="PhpFilesCache.php" server="C:/wamp64/www/" local="131780359131205862" remote="131780359130000000" Dst="1" />
+<file name="Psr6Cache.php" server="C:/wamp64/www/" local="131780359131615828" remote="131780359130000000" Dst="1" />
+<file name="RedisCache.php" server="C:/wamp64/www/" local="131780359131615828" remote="131780359130000000" Dst="1" />
+<file name="TraceableCache.php" server="C:/wamp64/www/" local="131780359131712266" remote="131780359130000000" Dst="1" />
+<file name="AbstractCache.php" server="C:/wamp64/www/emobi/" local="131927358166412006" remote="131927358160000000" Dst="2" />
+<file name="ApcuCache.php" server="C:/wamp64/www/emobi/" local="131927358166610869" remote="131927358160000000" Dst="2" />
+<file name="ArrayCache.php" server="C:/wamp64/www/emobi/" local="131927358166730016" remote="131927358160000000" Dst="2" />
+<file name="ChainCache.php" server="C:/wamp64/www/emobi/" local="131927358166810663" remote="131927358160000000" Dst="2" />
+<file name="DoctrineCache.php" server="C:/wamp64/www/emobi/" local="131927358167011400" remote="131927358160000000" Dst="2" />
+<file name="FilesystemCache.php" server="C:/wamp64/www/emobi/" local="131927358167109559" remote="131927358160000000" Dst="2" />
+<file name="MemcachedCache.php" server="C:/wamp64/www/emobi/" local="131927358167211373" remote="131927358160000000" Dst="2" />
+<file name="NullCache.php" server="C:/wamp64/www/emobi/" local="131927358167312448" remote="131927358160000000" Dst="2" />
+<file name="PdoCache.php" server="C:/wamp64/www/emobi/" local="131927358167508260" remote="131927358160000000" Dst="2" />
+<file name="PhpArrayCache.php" server="C:/wamp64/www/emobi/" local="131927358167611126" remote="131927358160000000" Dst="2" />
+<file name="PhpFilesCache.php" server="C:/wamp64/www/emobi/" local="131927358167730916" remote="131927358160000000" Dst="2" />
+<file name="Psr6Cache.php" server="C:/wamp64/www/emobi/" local="131927358167850803" remote="131927358160000000" Dst="2" />
+<file name="RedisCache.php" server="C:/wamp64/www/emobi/" local="131927358168011784" remote="131927358160000000" Dst="2" />
+<file name="TraceableCache.php" server="C:/wamp64/www/emobi/" local="131927358168111354" remote="131927358160000000" Dst="2" />
+</dwsync>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="ColumnCase.php" server="C:/wamp64/www/" local="131702641031873326" remote="131702641030000000" Dst="1" />
+<file name="Configuration.php" server="C:/wamp64/www/" local="131702641032185850" remote="131702641030000000" Dst="1" />
+<file name="Connection.php" server="C:/wamp64/www/" local="131702641032185850" remote="131702641030000000" Dst="1" />
+<file name="ConnectionException.php" server="C:/wamp64/www/" local="131702641032498404" remote="131702641030000000" Dst="1" />
+<file name="DBALException.php" server="C:/wamp64/www/" local="131702641032876178" remote="131702641030000000" Dst="1" />
+<file name="Driver.php" server="C:/wamp64/www/" local="131702641033032444" remote="131702641030000000" Dst="1" />
+<file name="DriverManager.php" server="C:/wamp64/www/" local="131702641044520098" remote="131702641040000000" Dst="1" />
+<file name="Events.php" server="C:/wamp64/www/" local="131702641047059880" remote="131702641040000000" Dst="1" />
+<file name="FetchMode.php" server="C:/wamp64/www/" local="131702641049901737" remote="131702641040000000" Dst="1" />
+<file name="LockMode.php" server="C:/wamp64/www/" local="131702641050370289" remote="131702641050000000" Dst="1" />
+<file name="ParameterType.php" server="C:/wamp64/www/" local="131702641051051634" remote="131702641050000000" Dst="1" />
+<file name="README.markdown" server="C:/wamp64/www/" local="131702641064215115" remote="131702641060000000" Dst="1" />
+<file name="SQLParserUtils.php" server="C:/wamp64/www/" local="131702641064719665" remote="131702641060000000" Dst="1" />
+<file name="SQLParserUtilsException.php" server="C:/wamp64/www/" local="131702641064749449" remote="131702641060000000" Dst="1" />
+<file name="Statement.php" server="C:/wamp64/www/" local="131702641077755629" remote="131702641070000000" Dst="1" />
+<file name="TransactionIsolationLevel.php" server="C:/wamp64/www/" local="131702641079071066" remote="131702641070000000" Dst="1" />
+<file name="Version.php" server="C:/wamp64/www/" local="131702641086389722" remote="131702641080000000" Dst="1" />
+<file name="VersionAwarePlatformDriver.php" server="C:/wamp64/www/" local="131702641086545833" remote="131702641080000000" Dst="1" />
+<file name="ColumnCase.php" server="C:/wamp64/www/emobi/" local="131702641040000000" remote="131702605040000000" Dst="2" />
+<file name="Configuration.php" server="C:/wamp64/www/emobi/" local="131702641040000000" remote="131702605040000000" Dst="2" />
+<file name="Connection.php" server="C:/wamp64/www/emobi/" local="131702641040000000" remote="131702605040000000" Dst="2" />
+<file name="ConnectionException.php" server="C:/wamp64/www/emobi/" local="131702641040000000" remote="131702605040000000" Dst="2" />
+<file name="DBALException.php" server="C:/wamp64/www/emobi/" local="131702641040000000" remote="131702605040000000" Dst="2" />
+<file name="Driver.php" server="C:/wamp64/www/emobi/" local="131702641040000000" remote="131702605040000000" Dst="2" />
+<file name="DriverManager.php" server="C:/wamp64/www/emobi/" local="131702641060000000" remote="131702605060000000" Dst="2" />
+<file name="Events.php" server="C:/wamp64/www/emobi/" local="131702641060000000" remote="131702605060000000" Dst="2" />
+<file name="FetchMode.php" server="C:/wamp64/www/emobi/" local="131702641060000000" remote="131702605060000000" Dst="2" />
+<file name="LockMode.php" server="C:/wamp64/www/emobi/" local="131702641060000000" remote="131702605060000000" Dst="2" />
+<file name="ParameterType.php" server="C:/wamp64/www/emobi/" local="131702641060000000" remote="131702605060000000" Dst="2" />
+<file name="README.markdown" server="C:/wamp64/www/emobi/" local="131702641080000000" remote="131702605080000000" Dst="2" />
+<file name="SQLParserUtils.php" server="C:/wamp64/www/emobi/" local="131702641080000000" remote="131702605080000000" Dst="2" />
+<file name="SQLParserUtilsException.php" server="C:/wamp64/www/emobi/" local="131702641080000000" remote="131702605080000000" Dst="2" />
+<file name="Statement.php" server="C:/wamp64/www/emobi/" local="131702641080000000" remote="131702605080000000" Dst="2" />
+<file name="TransactionIsolationLevel.php" server="C:/wamp64/www/emobi/" local="131702641080000000" remote="131702605080000000" Dst="2" />
+<file name="Version.php" server="C:/wamp64/www/emobi/" local="131702641100000000" remote="131702605100000000" Dst="2" />
+<file name="VersionAwarePlatformDriver.php" server="C:/wamp64/www/emobi/" local="131702641100000000" remote="131702605100000000" Dst="2" />
+</dwsync>

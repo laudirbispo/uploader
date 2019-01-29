@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="EncoderInterface.php" server="C:/wamp64/www/" local="131689664184246952" remote="131689664180000000" Dst="1" />
+<file name="JsonEncoder.php" server="C:/wamp64/www/" local="131689664184715424" remote="131689664180000000" Dst="1" />
+<file name="SerializerEncoder.php" server="C:/wamp64/www/" local="131689664185188936" remote="131689664180000000" Dst="1" />
+<file name="Base64Encoder.php" server="C:/wamp64/www/" local="131689664183059854" remote="131689664180000000" Dst="1" />
+<file name="EncoderFactory.php" server="C:/wamp64/www/" local="131689664183785254" remote="131689664180000000" Dst="1" />
+<file name="Base64Encoder.php" server="D:/wamp64/www/" local="131689664183059854" remote="131689664180000000" Dst="1" />
+<file name="EncoderFactory.php" server="D:/wamp64/www/" local="131689664183785254" remote="131689664180000000" Dst="1" />
+<file name="EncoderInterface.php" server="D:/wamp64/www/" local="131689664184246952" remote="131689664180000000" Dst="1" />
+<file name="JsonEncoder.php" server="D:/wamp64/www/" local="131689664184715424" remote="131689664180000000" Dst="1" />
+<file name="SerializerEncoder.php" server="D:/wamp64/www/" local="131689664185188936" remote="131689664180000000" Dst="1" />
+<file name="Base64Encoder.php" server="186.202.161.87/emobi.easymobi.com.br/" local="131602267582251270" remote="131623111800000000" Dst="2" />
+<file name="EncoderInterface.php" server="186.202.161.87/emobi.easymobi.com.br/" local="131602267583354377" remote="131623111800000000" Dst="2" />
+<file name="EncoderFactory.php" server="186.202.161.87/emobi.easymobi.com.br/" local="131602267582564972" remote="131623111800000000" Dst="2" />
+<file name="JsonEncoder.php" server="186.202.161.87/emobi.easymobi.com.br/" local="131605169728074111" remote="131623111800000000" Dst="2" />
+<file name="SerializerEncoder.php" server="186.202.161.87/emobi.easymobi.com.br/" local="131602267583928696" remote="131623111800000000" Dst="2" />
+<file name="Base64Encoder.php" server="C:/wamp64/www/emobi/" local="131877098308700391" remote="131877098300000000" Dst="2" />
+<file name="EncoderFactory.php" server="C:/wamp64/www/emobi/" local="131877098306815688" remote="131877098300000000" Dst="2" />
+<file name="EncoderInterface.php" server="C:/wamp64/www/emobi/" local="131877098304800815" remote="131877098300000000" Dst="2" />
+<file name="JsonEncoder.php" server="C:/wamp64/www/emobi/" local="131877098302427157" remote="131877098300000000" Dst="2" />
+<file name="SerializerEncoder.php" server="C:/wamp64/www/emobi/" local="131877098299475047" remote="131877098290000000" Dst="2" />
+</dwsync>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AbstractStaticMethodLoader.php" server="C:/wamp64/www/" local="131780359670210498" remote="131780359670000000" Dst="1" />
+<file name="AnnotationLoaderTest.php" server="C:/wamp64/www/" local="131780359670511490" remote="131780359670000000" Dst="1" />
+<file name="bad-format.yml" server="C:/wamp64/www/" local="131780359671256503" remote="131780359670000000" Dst="1" />
+<file name="constraint-mapping-non-strings.xml" server="C:/wamp64/www/" local="131780359671515172" remote="131780359670000000" Dst="1" />
+<file name="constraint-mapping.xml" server="C:/wamp64/www/" local="131780359671515172" remote="131780359670000000" Dst="1" />
+<file name="constraint-mapping.yml" server="C:/wamp64/www/" local="131780359671612124" remote="131780359670000000" Dst="1" />
+<file name="empty-mapping.yml" server="C:/wamp64/www/" local="131780359671612124" remote="131780359670000000" Dst="1" />
+<file name="FilesLoaderTest.php" server="C:/wamp64/www/" local="131780359670613513" remote="131780359670000000" Dst="1" />
+<file name="LoaderChainTest.php" server="C:/wamp64/www/" local="131780359670714062" remote="131780359670000000" Dst="1" />
+<file name="mapping-with-constants.yml" server="C:/wamp64/www/" local="131780359671612124" remote="131780359670000000" Dst="1" />
+<file name="nonvalid-mapping.yml" server="C:/wamp64/www/" local="131780359671612124" remote="131780359670000000" Dst="1" />
+<file name="StaticMethodLoaderTest.php" server="C:/wamp64/www/" local="131780359670952596" remote="131780359670000000" Dst="1" />
+<file name="withdoctype.xml" server="C:/wamp64/www/" local="131780359671714743" remote="131780359670000000" Dst="1" />
+<file name="XmlFileLoaderTest.php" server="C:/wamp64/www/" local="131780359671053055" remote="131780359670000000" Dst="1" />
+<file name="YamlFileLoaderTest.php" server="C:/wamp64/www/" local="131780359671256503" remote="131780359670000000" Dst="1" />
+<file name="AbstractStaticMethodLoader.php" server="C:/wamp64/www/emobi/" local="131927358648809274" remote="131927358640000000" Dst="2" />
+<file name="AnnotationLoaderTest.php" server="C:/wamp64/www/emobi/" local="131927358648909553" remote="131927358640000000" Dst="2" />
+<file name="bad-format.yml" server="C:/wamp64/www/emobi/" local="131927358650009544" remote="131927358650000000" Dst="2" />
+<file name="constraint-mapping-non-strings.xml" server="C:/wamp64/www/emobi/" local="131927358650009544" remote="131927358650000000" Dst="2" />
+<file name="constraint-mapping.xml" server="C:/wamp64/www/emobi/" local="131927358650106585" remote="131927358650000000" Dst="2" />
+<file name="constraint-mapping.yml" server="C:/wamp64/www/emobi/" local="131927358650106585" remote="131927358650000000" Dst="2" />
+<file name="empty-mapping.yml" server="C:/wamp64/www/emobi/" local="131927358650205819" remote="131927358650000000" Dst="2" />
+<file name="FilesLoaderTest.php" server="C:/wamp64/www/emobi/" local="131927358649107434" remote="131927358640000000" Dst="2" />
+<file name="LoaderChainTest.php" server="C:/wamp64/www/emobi/" local="131927358649206135" remote="131927358640000000" Dst="2" />
+<file name="mapping-with-constants.yml" server="C:/wamp64/www/emobi/" local="131927358650205819" remote="131927358650000000" Dst="2" />
+<file name="nonvalid-mapping.yml" server="C:/wamp64/www/emobi/" local="131927358650205819" remote="131927358650000000" Dst="2" />
+<file name="StaticMethodLoaderTest.php" server="C:/wamp64/www/emobi/" local="131927358649405071" remote="131927358640000000" Dst="2" />
+<file name="withdoctype.xml" server="C:/wamp64/www/emobi/" local="131927358650205819" remote="131927358650000000" Dst="2" />
+<file name="XmlFileLoaderTest.php" server="C:/wamp64/www/emobi/" local="131927358649709054" remote="131927358640000000" Dst="2" />
+<file name="YamlFileLoaderTest.php" server="C:/wamp64/www/emobi/" local="131927358649805126" remote="131927358640000000" Dst="2" />
+</dwsync>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="ArrayLoader.php" server="C:/wamp64/www/" local="131780359561011796" remote="131780359560000000" Dst="1" />
+<file name="CsvFileLoader.php" server="C:/wamp64/www/" local="131780359561134269" remote="131780359560000000" Dst="1" />
+<file name="FileLoader.php" server="C:/wamp64/www/" local="131780359561204952" remote="131780359560000000" Dst="1" />
+<file name="IcuDatFileLoader.php" server="C:/wamp64/www/" local="131780359561312083" remote="131780359560000000" Dst="1" />
+<file name="IcuResFileLoader.php" server="C:/wamp64/www/" local="131780359561412697" remote="131780359560000000" Dst="1" />
+<file name="IniFileLoader.php" server="C:/wamp64/www/" local="131780359561814152" remote="131780359560000000" Dst="1" />
+<file name="JsonFileLoader.php" server="C:/wamp64/www/" local="131780359561914128" remote="131780359560000000" Dst="1" />
+<file name="LoaderInterface.php" server="C:/wamp64/www/" local="131780359562112102" remote="131780359560000000" Dst="1" />
+<file name="MoFileLoader.php" server="C:/wamp64/www/" local="131780359562202683" remote="131780359560000000" Dst="1" />
+<file name="PhpFileLoader.php" server="C:/wamp64/www/" local="131780359562315437" remote="131780359560000000" Dst="1" />
+<file name="PoFileLoader.php" server="C:/wamp64/www/" local="131780359562413192" remote="131780359560000000" Dst="1" />
+<file name="QtFileLoader.php" server="C:/wamp64/www/" local="131780359562512409" remote="131780359560000000" Dst="1" />
+<file name="XliffFileLoader.php" server="C:/wamp64/www/" local="131780359562715197" remote="131780359560000000" Dst="1" />
+<file name="YamlFileLoader.php" server="C:/wamp64/www/" local="131780359562812492" remote="131780359560000000" Dst="1" />
+<file name="ArrayLoader.php" server="C:/wamp64/www/emobi/" local="131927358462209212" remote="131927358460000000" Dst="2" />
+<file name="CsvFileLoader.php" server="C:/wamp64/www/emobi/" local="131927358462307306" remote="131927358460000000" Dst="2" />
+<file name="FileLoader.php" server="C:/wamp64/www/emobi/" local="131927358462509468" remote="131927358460000000" Dst="2" />
+<file name="IcuDatFileLoader.php" server="C:/wamp64/www/emobi/" local="131927358462608816" remote="131927358460000000" Dst="2" />
+<file name="IcuResFileLoader.php" server="C:/wamp64/www/emobi/" local="131927358462708358" remote="131927358460000000" Dst="2" />
+<file name="IniFileLoader.php" server="C:/wamp64/www/emobi/" local="131927358462906717" remote="131927358460000000" Dst="2" />
+<file name="JsonFileLoader.php" server="C:/wamp64/www/emobi/" local="131927358463006332" remote="131927358460000000" Dst="2" />
+<file name="LoaderInterface.php" server="C:/wamp64/www/emobi/" local="131927358463108647" remote="131927358460000000" Dst="2" />
+<file name="MoFileLoader.php" server="C:/wamp64/www/emobi/" local="131927358463224693" remote="131927358460000000" Dst="2" />
+<file name="PhpFileLoader.php" server="C:/wamp64/www/emobi/" local="131927358463405506" remote="131927358460000000" Dst="2" />
+<file name="PoFileLoader.php" server="C:/wamp64/www/emobi/" local="131927358463509600" remote="131927358460000000" Dst="2" />
+<file name="QtFileLoader.php" server="C:/wamp64/www/emobi/" local="131927358463509600" remote="131927358460000000" Dst="2" />
+<file name="XliffFileLoader.php" server="C:/wamp64/www/emobi/" local="131927358463607357" remote="131927358460000000" Dst="2" />
+<file name="YamlFileLoader.php" server="C:/wamp64/www/emobi/" local="131927358463808249" remote="131927358460000000" Dst="2" />
+</dwsync>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="ClassLoader.php" server="C:/wamp64/www/" local="131702640958220254" remote="131702640950000000" Dst="1" />
+<file name="CommonException.php" server="C:/wamp64/www/" local="131702640958376516" remote="131702640950000000" Dst="1" />
+<file name="Comparable.php" server="C:/wamp64/www/" local="131702640958597998" remote="131702640950000000" Dst="1" />
+<file name="EventArgs.php" server="C:/wamp64/www/" local="131702640958754611" remote="131702640950000000" Dst="1" />
+<file name="EventManager.php" server="C:/wamp64/www/" local="131702640958910571" remote="131702640950000000" Dst="1" />
+<file name="EventSubscriber.php" server="C:/wamp64/www/" local="131702640958910571" remote="131702640950000000" Dst="1" />
+<file name="Lexer.php" server="C:/wamp64/www/" local="131702640959066833" remote="131702640950000000" Dst="1" />
+<file name="NotifyPropertyChanged.php" server="C:/wamp64/www/" local="131702640959066833" remote="131702640950000000" Dst="1" />
+<file name="PropertyChangedListener.php" server="C:/wamp64/www/" local="131702640965374704" remote="131702640960000000" Dst="1" />
+<file name="Version.php" server="C:/wamp64/www/" local="131702640969214815" remote="131702640960000000" Dst="1" />
+<file name="ClassLoader.php" server="C:/wamp64/www/emobi/" local="131702640960000000" remote="131702604960000000" Dst="2" />
+<file name="CommonException.php" server="C:/wamp64/www/emobi/" local="131702640960000000" remote="131702604960000000" Dst="2" />
+<file name="Comparable.php" server="C:/wamp64/www/emobi/" local="131702640960000000" remote="131702604960000000" Dst="2" />
+<file name="EventArgs.php" server="C:/wamp64/www/emobi/" local="131702640960000000" remote="131702604960000000" Dst="2" />
+<file name="EventManager.php" server="C:/wamp64/www/emobi/" local="131702640960000000" remote="131702604960000000" Dst="2" />
+<file name="EventSubscriber.php" server="C:/wamp64/www/emobi/" local="131702640960000000" remote="131702604960000000" Dst="2" />
+<file name="Lexer.php" server="C:/wamp64/www/emobi/" local="131702640960000000" remote="131702604960000000" Dst="2" />
+<file name="NotifyPropertyChanged.php" server="C:/wamp64/www/emobi/" local="131702640960000000" remote="131702604960000000" Dst="2" />
+<file name="PropertyChangedListener.php" server="C:/wamp64/www/emobi/" local="131702640980000000" remote="131702604980000000" Dst="2" />
+<file name="Version.php" server="C:/wamp64/www/emobi/" local="131702640980000000" remote="131702604980000000" Dst="2" />
+</dwsync>

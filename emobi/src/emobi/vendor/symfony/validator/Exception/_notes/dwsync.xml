@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="BadMethodCallException.php" server="C:/wamp64/www/" local="131780359647345564" remote="131780359640000000" Dst="1" />
+<file name="ConstraintDefinitionException.php" server="C:/wamp64/www/" local="131780359647415258" remote="131780359640000000" Dst="1" />
+<file name="ExceptionInterface.php" server="C:/wamp64/www/" local="131780359647813394" remote="131780359640000000" Dst="1" />
+<file name="GroupDefinitionException.php" server="C:/wamp64/www/" local="131780359647813394" remote="131780359640000000" Dst="1" />
+<file name="InvalidArgumentException.php" server="C:/wamp64/www/" local="131780359647912185" remote="131780359640000000" Dst="1" />
+<file name="InvalidOptionsException.php" server="C:/wamp64/www/" local="131780359648011760" remote="131780359640000000" Dst="1" />
+<file name="MappingException.php" server="C:/wamp64/www/" local="131780359648111317" remote="131780359640000000" Dst="1" />
+<file name="MissingOptionsException.php" server="C:/wamp64/www/" local="131780359648213358" remote="131780359640000000" Dst="1" />
+<file name="NoSuchMetadataException.php" server="C:/wamp64/www/" local="131780359648312877" remote="131780359640000000" Dst="1" />
+<file name="OutOfBoundsException.php" server="C:/wamp64/www/" local="131780359648403995" remote="131780359640000000" Dst="1" />
+<file name="RuntimeException.php" server="C:/wamp64/www/" local="131780359648403995" remote="131780359640000000" Dst="1" />
+<file name="UnexpectedTypeException.php" server="C:/wamp64/www/" local="131780359648515344" remote="131780359640000000" Dst="1" />
+<file name="UnsupportedMetadataException.php" server="C:/wamp64/www/" local="131780359648615376" remote="131780359640000000" Dst="1" />
+<file name="ValidatorException.php" server="C:/wamp64/www/" local="131780359648615376" remote="131780359640000000" Dst="1" />
+<file name="BadMethodCallException.php" server="C:/wamp64/www/emobi/" local="131927358620009873" remote="131927358620000000" Dst="2" />
+<file name="ConstraintDefinitionException.php" server="C:/wamp64/www/emobi/" local="131927358620108603" remote="131927358620000000" Dst="2" />
+<file name="ExceptionInterface.php" server="C:/wamp64/www/emobi/" local="131927358620208374" remote="131927358620000000" Dst="2" />
+<file name="GroupDefinitionException.php" server="C:/wamp64/www/emobi/" local="131927358620356067" remote="131927358620000000" Dst="2" />
+<file name="InvalidArgumentException.php" server="C:/wamp64/www/emobi/" local="131927358620406744" remote="131927358620000000" Dst="2" />
+<file name="InvalidOptionsException.php" server="C:/wamp64/www/emobi/" local="131927358620505959" remote="131927358620000000" Dst="2" />
+<file name="MappingException.php" server="C:/wamp64/www/emobi/" local="131927358620707770" remote="131927358620000000" Dst="2" />
+<file name="MissingOptionsException.php" server="C:/wamp64/www/emobi/" local="131927358620805275" remote="131927358620000000" Dst="2" />
+<file name="NoSuchMetadataException.php" server="C:/wamp64/www/emobi/" local="131927358620907387" remote="131927358620000000" Dst="2" />
+<file name="OutOfBoundsException.php" server="C:/wamp64/www/emobi/" local="131927358621006495" remote="131927358620000000" Dst="2" />
+<file name="RuntimeException.php" server="C:/wamp64/www/emobi/" local="131927358621110231" remote="131927358620000000" Dst="2" />
+<file name="UnexpectedTypeException.php" server="C:/wamp64/www/emobi/" local="131927358621209651" remote="131927358620000000" Dst="2" />
+<file name="UnsupportedMetadataException.php" server="C:/wamp64/www/emobi/" local="131927358621356667" remote="131927358620000000" Dst="2" />
+<file name="ValidatorException.php" server="C:/wamp64/www/emobi/" local="131927358621407310" remote="131927358620000000" Dst="2" />
+<file name="LogicException.php" server="C:/wamp64/www/emobi/" local="131927358620606512" remote="131927358620000000" Dst="2" />
+<file name="UnexpectedValueException.php" server="C:/wamp64/www/emobi/" local="131927358621209651" remote="131927358620000000" Dst="2" />
+</dwsync>

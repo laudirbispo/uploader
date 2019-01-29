@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="ConvertDoctrine1SchemaCommand.php" server="C:/wamp64/www/" local="131702641239242136" remote="131702641230000000" Dst="1" />
+<file name="ConvertMappingCommand.php" server="C:/wamp64/www/" local="131702641239398406" remote="131702641230000000" Dst="1" />
+<file name="EnsureProductionSettingsCommand.php" server="C:/wamp64/www/" local="131702641239554709" remote="131702641230000000" Dst="1" />
+<file name="GenerateEntitiesCommand.php" server="C:/wamp64/www/" local="131702641239710934" remote="131702641230000000" Dst="1" />
+<file name="GenerateProxiesCommand.php" server="C:/wamp64/www/" local="131702641239927416" remote="131702641230000000" Dst="1" />
+<file name="GenerateRepositoriesCommand.php" server="C:/wamp64/www/" local="131702641240084531" remote="131702641240000000" Dst="1" />
+<file name="InfoCommand.php" server="C:/wamp64/www/" local="131702641240240790" remote="131702641240000000" Dst="1" />
+<file name="MappingDescribeCommand.php" server="C:/wamp64/www/" local="131702641240397070" remote="131702641240000000" Dst="1" />
+<file name="RunDqlCommand.php" server="C:/wamp64/www/" local="131702641240553321" remote="131702641240000000" Dst="1" />
+<file name="ValidateSchemaCommand.php" server="C:/wamp64/www/" local="131702641241397211" remote="131702641240000000" Dst="1" />
+<file name="ConvertDoctrine1SchemaCommand.php" server="C:/wamp64/www/emobi/" local="131702641240000000" remote="131702605240000000" Dst="2" />
+<file name="ConvertMappingCommand.php" server="C:/wamp64/www/emobi/" local="131702641240000000" remote="131702605240000000" Dst="2" />
+<file name="EnsureProductionSettingsCommand.php" server="C:/wamp64/www/emobi/" local="131702641240000000" remote="131702605240000000" Dst="2" />
+<file name="GenerateEntitiesCommand.php" server="C:/wamp64/www/emobi/" local="131702641240000000" remote="131702605240000000" Dst="2" />
+<file name="GenerateProxiesCommand.php" server="C:/wamp64/www/emobi/" local="131702641240000000" remote="131702605240000000" Dst="2" />
+<file name="GenerateRepositoriesCommand.php" server="C:/wamp64/www/emobi/" local="131702641260000000" remote="131702605260000000" Dst="2" />
+<file name="InfoCommand.php" server="C:/wamp64/www/emobi/" local="131702641260000000" remote="131702605260000000" Dst="2" />
+<file name="MappingDescribeCommand.php" server="C:/wamp64/www/emobi/" local="131702641260000000" remote="131702605260000000" Dst="2" />
+<file name="RunDqlCommand.php" server="C:/wamp64/www/emobi/" local="131702641260000000" remote="131702605260000000" Dst="2" />
+<file name="ValidateSchemaCommand.php" server="C:/wamp64/www/emobi/" local="131702641260000000" remote="131702605260000000" Dst="2" />
+</dwsync>

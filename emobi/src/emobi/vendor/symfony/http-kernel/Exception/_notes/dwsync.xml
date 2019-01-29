@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AccessDeniedHttpException.php" server="C:/wamp64/www/" local="131780359392453930" remote="131780359390000000" Dst="1" />
+<file name="BadRequestHttpException.php" server="C:/wamp64/www/" local="131780359392514565" remote="131780359390000000" Dst="1" />
+<file name="ConflictHttpException.php" server="C:/wamp64/www/" local="131780359392648523" remote="131780359390000000" Dst="1" />
+<file name="GoneHttpException.php" server="C:/wamp64/www/" local="131780359392714102" remote="131780359390000000" Dst="1" />
+<file name="HttpException.php" server="C:/wamp64/www/" local="131780359392853826" remote="131780359390000000" Dst="1" />
+<file name="HttpExceptionInterface.php" server="C:/wamp64/www/" local="131780359394630613" remote="131780359390000000" Dst="1" />
+<file name="LengthRequiredHttpException.php" server="C:/wamp64/www/" local="131780359394710403" remote="131780359390000000" Dst="1" />
+<file name="MethodNotAllowedHttpException.php" server="C:/wamp64/www/" local="131780359394732941" remote="131780359390000000" Dst="1" />
+<file name="NotAcceptableHttpException.php" server="C:/wamp64/www/" local="131780359394863229" remote="131780359390000000" Dst="1" />
+<file name="NotFoundHttpException.php" server="C:/wamp64/www/" local="131780359394948985" remote="131780359390000000" Dst="1" />
+<file name="PreconditionFailedHttpException.php" server="C:/wamp64/www/" local="131780359395049618" remote="131780359390000000" Dst="1" />
+<file name="PreconditionRequiredHttpException.php" server="C:/wamp64/www/" local="131780359395115336" remote="131780359390000000" Dst="1" />
+<file name="ServiceUnavailableHttpException.php" server="C:/wamp64/www/" local="131780359395211691" remote="131780359390000000" Dst="1" />
+<file name="TooManyRequestsHttpException.php" server="C:/wamp64/www/" local="131780359395616107" remote="131780359390000000" Dst="1" />
+<file name="UnauthorizedHttpException.php" server="C:/wamp64/www/" local="131780359395754641" remote="131780359390000000" Dst="1" />
+<file name="UnprocessableEntityHttpException.php" server="C:/wamp64/www/" local="131780359395815266" remote="131780359390000000" Dst="1" />
+<file name="UnsupportedMediaTypeHttpException.php" server="C:/wamp64/www/" local="131780359395915649" remote="131780359390000000" Dst="1" />
+<file name="AccessDeniedHttpException.php" server="C:/wamp64/www/emobi/" local="131927358401308944" remote="131927358400000000" Dst="2" />
+<file name="BadRequestHttpException.php" server="C:/wamp64/www/emobi/" local="131927358401408954" remote="131927358400000000" Dst="2" />
+<file name="ConflictHttpException.php" server="C:/wamp64/www/emobi/" local="131927358401507283" remote="131927358400000000" Dst="2" />
+<file name="GoneHttpException.php" server="C:/wamp64/www/emobi/" local="131927358402205476" remote="131927358400000000" Dst="2" />
+<file name="HttpException.php" server="C:/wamp64/www/emobi/" local="131927358402304871" remote="131927358400000000" Dst="2" />
+<file name="HttpExceptionInterface.php" server="C:/wamp64/www/emobi/" local="131927358402405435" remote="131927358400000000" Dst="2" />
+<file name="LengthRequiredHttpException.php" server="C:/wamp64/www/emobi/" local="131927358402504804" remote="131927358400000000" Dst="2" />
+<file name="MethodNotAllowedHttpException.php" server="C:/wamp64/www/emobi/" local="131927358402705617" remote="131927358400000000" Dst="2" />
+<file name="NotAcceptableHttpException.php" server="C:/wamp64/www/emobi/" local="131927358402807266" remote="131927358400000000" Dst="2" />
+<file name="NotFoundHttpException.php" server="C:/wamp64/www/emobi/" local="131927358402935163" remote="131927358400000000" Dst="2" />
+<file name="PreconditionFailedHttpException.php" server="C:/wamp64/www/emobi/" local="131927358403005771" remote="131927358400000000" Dst="2" />
+<file name="PreconditionRequiredHttpException.php" server="C:/wamp64/www/emobi/" local="131927358403106770" remote="131927358400000000" Dst="2" />
+<file name="ServiceUnavailableHttpException.php" server="C:/wamp64/www/emobi/" local="131927358403205220" remote="131927358400000000" Dst="2" />
+<file name="TooManyRequestsHttpException.php" server="C:/wamp64/www/emobi/" local="131927358403407708" remote="131927358400000000" Dst="2" />
+<file name="UnauthorizedHttpException.php" server="C:/wamp64/www/emobi/" local="131927358403508909" remote="131927358400000000" Dst="2" />
+<file name="UnprocessableEntityHttpException.php" server="C:/wamp64/www/emobi/" local="131927358403604878" remote="131927358400000000" Dst="2" />
+<file name="UnsupportedMediaTypeHttpException.php" server="C:/wamp64/www/emobi/" local="131927358403706198" remote="131927358400000000" Dst="2" />
+<file name="ControllerDoesNotReturnResponseException.php" server="C:/wamp64/www/emobi/" local="131927358401607333" remote="131927358400000000" Dst="2" />
+</dwsync>

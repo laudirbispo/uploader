@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name=".gitignore" server="C:/wamp64/www/" local="131780359126412183" remote="131780359120000000" Dst="1" />
+<file name="CacheItem.php" server="C:/wamp64/www/" local="131780359129012071" remote="131780359120000000" Dst="1" />
+<file name="CHANGELOG.md" server="C:/wamp64/www/" local="131780359128911891" remote="131780359120000000" Dst="1" />
+<file name="composer.json" server="C:/wamp64/www/" local="131780359140414361" remote="131780359140000000" Dst="1" />
+<file name="DoctrineProvider.php" server="C:/wamp64/www/" local="131780359129414893" remote="131780359120000000" Dst="1" />
+<file name="LICENSE" server="C:/wamp64/www/" local="131780359129695341" remote="131780359120000000" Dst="1" />
+<file name="phpunit.xml.dist" server="C:/wamp64/www/" local="131780359140514239" remote="131780359140000000" Dst="1" />
+<file name="PruneableInterface.php" server="C:/wamp64/www/" local="131780359129795038" remote="131780359120000000" Dst="1" />
+<file name="README.md" server="C:/wamp64/www/" local="131780359129844878" remote="131780359120000000" Dst="1" />
+<file name="ResettableInterface.php" server="C:/wamp64/www/" local="131780359129914708" remote="131780359120000000" Dst="1" />
+<file name=".gitignore" server="C:/wamp64/www/emobi/" local="131927358159210548" remote="131927358150000000" Dst="2" />
+<file name="CacheItem.php" server="C:/wamp64/www/emobi/" local="131927358163308624" remote="131927358160000000" Dst="2" />
+<file name="CHANGELOG.md" server="C:/wamp64/www/emobi/" local="131927358163211017" remote="131927358160000000" Dst="2" />
+<file name="composer.json" server="C:/wamp64/www/emobi/" local="131927358181658813" remote="131927358180000000" Dst="2" />
+<file name="DoctrineProvider.php" server="C:/wamp64/www/emobi/" local="131927358164307766" remote="131927358160000000" Dst="2" />
+<file name="LICENSE" server="C:/wamp64/www/emobi/" local="131927358164811743" remote="131927358160000000" Dst="2" />
+<file name="phpunit.xml.dist" server="C:/wamp64/www/emobi/" local="131927358181754623" remote="131927358180000000" Dst="2" />
+<file name="PruneableInterface.php" server="C:/wamp64/www/emobi/" local="131927358166012509" remote="131927358160000000" Dst="2" />
+<file name="README.md" server="C:/wamp64/www/emobi/" local="131927358166109896" remote="131927358160000000" Dst="2" />
+<file name="ResettableInterface.php" server="C:/wamp64/www/emobi/" local="131927358166311902" remote="131927358160000000" Dst="2" />
+<file name="LockRegistry.php" server="C:/wamp64/www/emobi/" local="131927358164811743" remote="131927358160000000" Dst="2" />
+</dwsync>

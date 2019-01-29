@@ -1,0 +1,16 @@
+{
+	"languages": {
+		
+		"br": {
+		  "name": "Português Brasil (Portuguese)",
+		  "iso_code": "br",
+		  "date_format_lite": "Y-m-d",
+		  "date_format_full": "Y-m-d H:i:s",
+		  "is_rtl": "0",
+		  "language_code": "pt-br",
+		  "locale": "pt-BR"
+		},
+		
+		
+	}
+}

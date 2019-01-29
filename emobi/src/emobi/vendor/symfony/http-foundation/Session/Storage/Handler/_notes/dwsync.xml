@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AbstractSessionHandler.php" server="C:/wamp64/www/" local="131780359264511595" remote="131780359260000000" Dst="1" />
+<file name="MemcachedSessionHandler.php" server="C:/wamp64/www/" local="131780359264612987" remote="131780359260000000" Dst="1" />
+<file name="MigratingSessionHandler.php" server="C:/wamp64/www/" local="131780359264850149" remote="131780359260000000" Dst="1" />
+<file name="MongoDbSessionHandler.php" server="C:/wamp64/www/" local="131780359264915626" remote="131780359260000000" Dst="1" />
+<file name="NativeFileSessionHandler.php" server="C:/wamp64/www/" local="131780359265113176" remote="131780359260000000" Dst="1" />
+<file name="NullSessionHandler.php" server="C:/wamp64/www/" local="131780359265710959" remote="131780359260000000" Dst="1" />
+<file name="PdoSessionHandler.php" server="C:/wamp64/www/" local="131780359266014096" remote="131780359260000000" Dst="1" />
+<file name="RedisSessionHandler.php" server="C:/wamp64/www/" local="131780359266114661" remote="131780359260000000" Dst="1" />
+<file name="StrictSessionHandler.php" server="C:/wamp64/www/" local="131780359266212911" remote="131780359260000000" Dst="1" />
+<file name="AbstractSessionHandler.php" server="C:/wamp64/www/emobi/" local="131927358284844714" remote="131927358280000000" Dst="2" />
+<file name="MemcachedSessionHandler.php" server="C:/wamp64/www/emobi/" local="131927358285007328" remote="131927358280000000" Dst="2" />
+<file name="MigratingSessionHandler.php" server="C:/wamp64/www/emobi/" local="131927358285308053" remote="131927358280000000" Dst="2" />
+<file name="MongoDbSessionHandler.php" server="C:/wamp64/www/emobi/" local="131927358285504610" remote="131927358280000000" Dst="2" />
+<file name="NativeFileSessionHandler.php" server="C:/wamp64/www/emobi/" local="131927358285704926" remote="131927358280000000" Dst="2" />
+<file name="NullSessionHandler.php" server="C:/wamp64/www/emobi/" local="131927358285905041" remote="131927358280000000" Dst="2" />
+<file name="PdoSessionHandler.php" server="C:/wamp64/www/emobi/" local="131927358286008475" remote="131927358280000000" Dst="2" />
+<file name="RedisSessionHandler.php" server="C:/wamp64/www/emobi/" local="131927358286456958" remote="131927358280000000" Dst="2" />
+<file name="StrictSessionHandler.php" server="C:/wamp64/www/emobi/" local="131927358286604004" remote="131927358280000000" Dst="2" />
+</dwsync>

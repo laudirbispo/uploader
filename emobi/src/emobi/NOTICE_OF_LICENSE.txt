@@ -1,0 +1,18 @@
+Este SOFTWARE é protegido por leis de copyright e tratados internacionais relatiDtos a direitos autorais, bem como por outras 
+legislações e tratados sobre propriedade intelectual.
+
+Tudo (isto significa que todos os arquiDtos e pastas deste software) deste código (software) foi codificado (criado) por (Laudir Bispo), todos os direitos reservados.
+Exceto certos arquiDtos e bibliotecas (JavaScript, PHP ou outro) cuja licença e / ou o autor são identificados no arquiDto ou um arquiDto de texto ao lado dele.
+
+Em hipótese alguma é permitido ao LICENCIADO ou a terceiros, de forma geral:
+Copiar, ceder, sublicenciar, vender, dar em locação ou em garantia, reproduzir, doar, alienar de qualquer forma, transferir total ou parcialmente, sob quaisquer modalidades, gratuita ou onerosamente, provisória ou permanentemente, o SOFTWARE objeto deste EULA, assim como seus módulos, partes, manuais ou quaisquer informações relativas ao mesmo;
+ * Retirar ou alterar, total ou parcialmente, os avisos de reserva de direito existente no SOFTWARE e na documentação;
+ * Praticar de engenharia reversa, descompilação ou desmontagem do SOFTWARE.
+Estando totalmente sujeito a suspensão imediata da utilização do software e cancelamento do período de contratação, em quaisquer restituições contratuais por parte da LICENCIANTE.
+
+Sua licença para usar o Software será extinta em caso de violação desta Licença. Em caso de extinção, Dtocê deverá destruir todas as cópias do Software e da documentação relacionada.
+Todos os Avisos de direitos autorais, links e comentários de direitos autorais nunca podem ser removidos do código-fonte!
+
+Copyright (C) 2017-2018
+Autor e proprietário: Laudir Bispo
+Contato: laudirbispo@outlook.com, laudirbispo@gmail.com

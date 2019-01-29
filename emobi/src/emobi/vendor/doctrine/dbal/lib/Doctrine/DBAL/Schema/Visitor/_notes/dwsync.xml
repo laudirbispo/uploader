@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AbstractVisitor.php" server="C:/wamp64/www/" local="131702641074244445" remote="131702641070000000" Dst="1" />
+<file name="CreateSchemaSqlCollector.php" server="C:/wamp64/www/" local="131702641074400715" remote="131702641070000000" Dst="1" />
+<file name="DropSchemaSqlCollector.php" server="C:/wamp64/www/" local="131702641074557305" remote="131702641070000000" Dst="1" />
+<file name="Graphviz.php" server="C:/wamp64/www/" local="131702641074728323" remote="131702641070000000" Dst="1" />
+<file name="NamespaceVisitor.php" server="C:/wamp64/www/" local="131702641074753425" remote="131702641070000000" Dst="1" />
+<file name="RemoveNamespacedAssets.php" server="C:/wamp64/www/" local="131702641074910023" remote="131702641070000000" Dst="1" />
+<file name="SchemaDiffVisitor.php" server="C:/wamp64/www/" local="131702641075066341" remote="131702641070000000" Dst="1" />
+<file name="Visitor.php" server="C:/wamp64/www/" local="131702641075066341" remote="131702641070000000" Dst="1" />
+<file name="AbstractVisitor.php" server="C:/wamp64/www/emobi/" local="131702641080000000" remote="131702605080000000" Dst="2" />
+<file name="CreateSchemaSqlCollector.php" server="C:/wamp64/www/emobi/" local="131702641080000000" remote="131702605080000000" Dst="2" />
+<file name="DropSchemaSqlCollector.php" server="C:/wamp64/www/emobi/" local="131702641080000000" remote="131702605080000000" Dst="2" />
+<file name="Graphviz.php" server="C:/wamp64/www/emobi/" local="131702641080000000" remote="131702605080000000" Dst="2" />
+<file name="NamespaceVisitor.php" server="C:/wamp64/www/emobi/" local="131702641080000000" remote="131702605080000000" Dst="2" />
+<file name="RemoveNamespacedAssets.php" server="C:/wamp64/www/emobi/" local="131702641080000000" remote="131702605080000000" Dst="2" />
+<file name="SchemaDiffVisitor.php" server="C:/wamp64/www/emobi/" local="131702641080000000" remote="131702605080000000" Dst="2" />
+<file name="Visitor.php" server="C:/wamp64/www/emobi/" local="131702641080000000" remote="131702605080000000" Dst="2" />
+</dwsync>

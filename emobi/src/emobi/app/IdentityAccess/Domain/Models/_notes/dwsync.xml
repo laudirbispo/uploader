@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="User.php" server="C:/wamp64/www/" local="131817506047247911" remote="131817506040000000" Dst="1" />
+<file name="UserRead.php" server="C:/wamp64/www/" local="131801336597650767" remote="131801336590000000" Dst="1" />
+<file name="Group.php" server="C:/wamp64/www/" local="131829853253909952" remote="131829853250000000" Dst="1" />
+<file name="GroupRead.php" server="C:/wamp64/www/" local="131823564675543000" remote="131823564670000000" Dst="1" />
+<file name="Group.php" server="C:/wamp64/www/emobi/" local="131927341498003408" remote="131927341490000000" Dst="2" />
+<file name="GroupRead.php" server="C:/wamp64/www/emobi/" local="131921451983864634" remote="131921451980000000" Dst="2" />
+<file name="User.php" server="C:/wamp64/www/emobi/" local="131928374052877692" remote="131928374050000000" Dst="2" />
+<file name="UserRead.php" server="C:/wamp64/www/emobi/" local="131922271615618604" remote="131922271610000000" Dst="2" />
+<file name="Profile.php" server="C:/wamp64/www/emobi/" local="131922261831022779" remote="131922261830000000" Dst="2" />
+<file name="Account.php" server="C:/wamp64/www/emobi/" local="131920558305051657" remote="131920558300000000" Dst="2" />
+<file name="Username.php" server="C:/wamp64/www/emobi/" local="131927341476420919" remote="131927341470000000" Dst="2" />
+<file name="UserId.php" server="C:/wamp64/www/emobi/" local="131926356715364788" remote="131926356710000000" Dst="2" />
+<file name="SecurityKey.php" server="C:/wamp64/www/emobi/" local="131927341481868430" remote="131927341480000000" Dst="2" />
+<file name="Role.php" server="C:/wamp64/www/emobi/" local="131927341440511432" remote="131927341440000000" Dst="2" />
+<file name="Pin.php" server="C:/wamp64/www/emobi/" local="131895217117265638" remote="131895217110000000" Dst="2" />
+<file name="Password.php" server="C:/wamp64/www/emobi/" local="131927341487004241" remote="131927341480000000" Dst="2" />
+<file name="HashedPin.php" server="C:/wamp64/www/emobi/" local="131927341490012032" remote="131927341490000000" Dst="2" />
+<file name="HashedPassword.php" server="C:/wamp64/www/emobi/" local="131927341492202245" remote="131927341490000000" Dst="2" />
+<file name="GroupStatus.php" server="C:/wamp64/www/emobi/" local="131927341442405202" remote="131927341440000000" Dst="2" />
+<file name="GroupPermissions.php" server="C:/wamp64/www/emobi/" local="131927341494754399" remote="131927341490000000" Dst="2" />
+<file name="GroupName.php" server="C:/wamp64/www/emobi/" local="131927341445606136" remote="131927341440000000" Dst="2" />
+<file name="GroupId.php" server="C:/wamp64/www/emobi/" local="131927387425232201" remote="131927387420000000" Dst="2" />
+<file name="GroupDescription.php" server="C:/wamp64/www/emobi/" local="131927341448206415" remote="131927341440000000" Dst="2" />
+<file name="AccountStatus.php" server="C:/wamp64/www/emobi/" local="131927341500534135" remote="131927341500000000" Dst="2" />
+<file name="GroupCollection.php" server="C:/wamp64/www/emobi/" local="131922270460482509" remote="131922270460000000" Dst="2" />
+<file name="UserCollection.php" server="C:/wamp64/www/emobi/" local="131922209610702184" remote="131922209610000000" Dst="2" />
+<file name="About.php" server="C:/wamp64/www/emobi/" local="131928056127073683" remote="131928056120000000" Dst="2" />
+</dwsync>
