@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name=".gitignore" server="C:/wamp64/www/" local="131780359555013921" remote="131780359550000000" Dst="1" />
+<file name="CHANGELOG.md" server="C:/wamp64/www/" local="131780359555125889" remote="131780359550000000" Dst="1" />
+<file name="composer.json" server="C:/wamp64/www/" local="131780359573515087" remote="131780359570000000" Dst="1" />
+<file name="DataCollectorTranslator.php" server="C:/wamp64/www/" local="131780359557528645" remote="131780359550000000" Dst="1" />
+<file name="IdentityTranslator.php" server="C:/wamp64/www/" local="131780359560813230" remote="131780359560000000" Dst="1" />
+<file name="Interval.php" server="C:/wamp64/www/" local="131780359560911987" remote="131780359560000000" Dst="1" />
+<file name="LICENSE" server="C:/wamp64/www/" local="131780359560911987" remote="131780359560000000" Dst="1" />
+<file name="LoggingTranslator.php" server="C:/wamp64/www/" local="131780359563202945" remote="131780359560000000" Dst="1" />
+<file name="MessageCatalogue.php" server="C:/wamp64/www/" local="131780359563313255" remote="131780359560000000" Dst="1" />
+<file name="MessageCatalogueInterface.php" server="C:/wamp64/www/" local="131780359563415931" remote="131780359560000000" Dst="1" />
+<file name="MessageSelector.php" server="C:/wamp64/www/" local="131780359563511855" remote="131780359560000000" Dst="1" />
+<file name="MetadataAwareInterface.php" server="C:/wamp64/www/" local="131780359563614640" remote="131780359560000000" Dst="1" />
+<file name="phpunit.xml.dist" server="C:/wamp64/www/" local="131780359573613288" remote="131780359570000000" Dst="1" />
+<file name="PluralizationRules.php" server="C:/wamp64/www/" local="131780359563815298" remote="131780359560000000" Dst="1" />
+<file name="README.md" server="C:/wamp64/www/" local="131780359563815298" remote="131780359560000000" Dst="1" />
+<file name="Translator.php" server="C:/wamp64/www/" local="131780359573014777" remote="131780359570000000" Dst="1" />
+<file name="TranslatorBagInterface.php" server="C:/wamp64/www/" local="131780359573115353" remote="131780359570000000" Dst="1" />
+<file name="TranslatorInterface.php" server="C:/wamp64/www/" local="131780359573201110" remote="131780359570000000" Dst="1" />
+<file name=".gitignore" server="C:/wamp64/www/emobi/" local="131927358455109903" remote="131927358450000000" Dst="2" />
+<file name="CHANGELOG.md" server="C:/wamp64/www/emobi/" local="131927358455109903" remote="131927358450000000" Dst="2" />
+<file name="composer.json" server="C:/wamp64/www/emobi/" local="131927358478607172" remote="131927358470000000" Dst="2" />
+<file name="DataCollectorTranslator.php" server="C:/wamp64/www/emobi/" local="131927358456207973" remote="131927358450000000" Dst="2" />
+<file name="IdentityTranslator.php" server="C:/wamp64/www/emobi/" local="131927358461605112" remote="131927358460000000" Dst="2" />
+<file name="Interval.php" server="C:/wamp64/www/emobi/" local="131927358462005361" remote="131927358460000000" Dst="2" />
+<file name="LICENSE" server="C:/wamp64/www/emobi/" local="131927358462109102" remote="131927358460000000" Dst="2" />
+<file name="LoggingTranslator.php" server="C:/wamp64/www/emobi/" local="131927358463906265" remote="131927358460000000" Dst="2" />
+<file name="MessageCatalogue.php" server="C:/wamp64/www/emobi/" local="131927358464108537" remote="131927358460000000" Dst="2" />
+<file name="MessageCatalogueInterface.php" server="C:/wamp64/www/emobi/" local="131927358464209351" remote="131927358460000000" Dst="2" />
+<file name="MessageSelector.php" server="C:/wamp64/www/emobi/" local="131927358464406653" remote="131927358460000000" Dst="2" />
+<file name="MetadataAwareInterface.php" server="C:/wamp64/www/emobi/" local="131927358464506571" remote="131927358460000000" Dst="2" />
+<file name="phpunit.xml.dist" server="C:/wamp64/www/emobi/" local="131927358478705368" remote="131927358470000000" Dst="2" />
+<file name="PluralizationRules.php" server="C:/wamp64/www/emobi/" local="131927358464606842" remote="131927358460000000" Dst="2" />
+<file name="README.md" server="C:/wamp64/www/emobi/" local="131927358464807498" remote="131927358460000000" Dst="2" />
+<file name="Translator.php" server="C:/wamp64/www/emobi/" local="131927358477103978" remote="131927358470000000" Dst="2" />
+<file name="TranslatorBagInterface.php" server="C:/wamp64/www/emobi/" local="131927358477404437" remote="131927358470000000" Dst="2" />
+<file name="TranslatorInterface.php" server="C:/wamp64/www/emobi/" local="131927358477506045" remote="131927358470000000" Dst="2" />
+</dwsync>

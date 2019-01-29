@@ -1,0 +1,21 @@
+app\IdentityAccess\Domain\Events\ProfileWasChanged:
+    exclusion_policy: ALL
+    
+    properties:
+        firstName:
+            type: string 
+            
+        lastName: 
+            type: string
+            
+        gender: 
+            type: string
+            
+        about:
+            type: string
+            
+        dateOfBirth:
+            type: string
+            
+        maritalStatus: 
+            type: string

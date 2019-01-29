@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AbstractRedisSessionHandlerTestCase.php" server="C:/wamp64/www/" local="131780359274813071" remote="131780359270000000" Dst="1" />
+<file name="AbstractSessionHandlerTest.php" server="C:/wamp64/www/" local="131780359274914078" remote="131780359270000000" Dst="1" />
+<file name="MemcachedSessionHandlerTest.php" server="C:/wamp64/www/" local="131780359275912640" remote="131780359270000000" Dst="1" />
+<file name="MigratingSessionHandlerTest.php" server="C:/wamp64/www/" local="131780359276111636" remote="131780359270000000" Dst="1" />
+<file name="MongoDbSessionHandlerTest.php" server="C:/wamp64/www/" local="131780359276215354" remote="131780359270000000" Dst="1" />
+<file name="NativeFileSessionHandlerTest.php" server="C:/wamp64/www/" local="131780359276412232" remote="131780359270000000" Dst="1" />
+<file name="NullSessionHandlerTest.php" server="C:/wamp64/www/" local="131780359276515648" remote="131780359270000000" Dst="1" />
+<file name="PdoSessionHandlerTest.php" server="C:/wamp64/www/" local="131780359276714392" remote="131780359270000000" Dst="1" />
+<file name="PredisClusterSessionHandlerTest.php" server="C:/wamp64/www/" local="131780359276812457" remote="131780359270000000" Dst="1" />
+<file name="PredisSessionHandlerTest.php" server="C:/wamp64/www/" local="131780359276812457" remote="131780359270000000" Dst="1" />
+<file name="RedisArraySessionHandlerTest.php" server="C:/wamp64/www/" local="131780359276912312" remote="131780359270000000" Dst="1" />
+<file name="RedisSessionHandlerTest.php" server="C:/wamp64/www/" local="131780359277057216" remote="131780359270000000" Dst="1" />
+<file name="StrictSessionHandlerTest.php" server="C:/wamp64/www/" local="131780359277211836" remote="131780359270000000" Dst="1" />
+<file name="AbstractRedisSessionHandlerTestCase.php" server="C:/wamp64/www/emobi/" local="131927358296103909" remote="131927358290000000" Dst="2" />
+<file name="AbstractSessionHandlerTest.php" server="C:/wamp64/www/emobi/" local="131927358296304939" remote="131927358290000000" Dst="2" />
+<file name="MemcachedSessionHandlerTest.php" server="C:/wamp64/www/emobi/" local="131927358298503706" remote="131927358290000000" Dst="2" />
+<file name="MigratingSessionHandlerTest.php" server="C:/wamp64/www/emobi/" local="131927358298708391" remote="131927358290000000" Dst="2" />
+<file name="MongoDbSessionHandlerTest.php" server="C:/wamp64/www/emobi/" local="131927358298848336" remote="131927358290000000" Dst="2" />
+<file name="NativeFileSessionHandlerTest.php" server="C:/wamp64/www/emobi/" local="131927358299107502" remote="131927358290000000" Dst="2" />
+<file name="NullSessionHandlerTest.php" server="C:/wamp64/www/emobi/" local="131927358299207229" remote="131927358290000000" Dst="2" />
+<file name="PdoSessionHandlerTest.php" server="C:/wamp64/www/emobi/" local="131927358299407488" remote="131927358290000000" Dst="2" />
+<file name="PredisClusterSessionHandlerTest.php" server="C:/wamp64/www/emobi/" local="131927358299607603" remote="131927358290000000" Dst="2" />
+<file name="PredisSessionHandlerTest.php" server="C:/wamp64/www/emobi/" local="131927358299708179" remote="131927358290000000" Dst="2" />
+<file name="RedisArraySessionHandlerTest.php" server="C:/wamp64/www/emobi/" local="131927358299905844" remote="131927358290000000" Dst="2" />
+<file name="RedisSessionHandlerTest.php" server="C:/wamp64/www/emobi/" local="131927358300108552" remote="131927358300000000" Dst="2" />
+<file name="StrictSessionHandlerTest.php" server="C:/wamp64/www/emobi/" local="131927358300305262" remote="131927358300000000" Dst="2" />
+<file name="RedisClusterSessionHandlerTest.php" server="C:/wamp64/www/emobi/" local="131927358300008740" remote="131927358300000000" Dst="2" />
+</dwsync>

@@ -1,0 +1,17 @@
+app\IdentityAccess\Domain\Events\GroupWasChanged:
+    exclusion_policy: ALL
+
+    properties:
+        aggregateId:
+            type: string
+        
+        name:
+            type: string
+        
+        description:
+            type: string
+            
+        status:
+            type: string
+
+        

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AbstractSessionListener.php" server="C:/wamp64/www/" local="131780359390350561" remote="131780359390000000" Dst="1" />
+<file name="AbstractTestSessionListener.php" server="C:/wamp64/www/" local="131780359390456178" remote="131780359390000000" Dst="1" />
+<file name="AddRequestFormatsListener.php" server="C:/wamp64/www/" local="131780359390511773" remote="131780359390000000" Dst="1" />
+<file name="DebugHandlersListener.php" server="C:/wamp64/www/" local="131780359390651127" remote="131780359390000000" Dst="1" />
+<file name="DumpListener.php" server="C:/wamp64/www/" local="131780359390851887" remote="131780359390000000" Dst="1" />
+<file name="ExceptionListener.php" server="C:/wamp64/www/" local="131780359390912519" remote="131780359390000000" Dst="1" />
+<file name="FragmentListener.php" server="C:/wamp64/www/" local="131780359391113981" remote="131780359390000000" Dst="1" />
+<file name="LocaleListener.php" server="C:/wamp64/www/" local="131780359391256884" remote="131780359390000000" Dst="1" />
+<file name="ProfilerListener.php" server="C:/wamp64/www/" local="131780359391413320" remote="131780359390000000" Dst="1" />
+<file name="ResponseListener.php" server="C:/wamp64/www/" local="131780359391448420" remote="131780359390000000" Dst="1" />
+<file name="RouterListener.php" server="C:/wamp64/www/" local="131780359391614340" remote="131780359390000000" Dst="1" />
+<file name="SaveSessionListener.php" server="C:/wamp64/www/" local="131780359391711711" remote="131780359390000000" Dst="1" />
+<file name="SessionListener.php" server="C:/wamp64/www/" local="131780359391849332" remote="131780359390000000" Dst="1" />
+<file name="StreamedResponseListener.php" server="C:/wamp64/www/" local="131780359391954850" remote="131780359390000000" Dst="1" />
+<file name="SurrogateListener.php" server="C:/wamp64/www/" local="131780359392055525" remote="131780359390000000" Dst="1" />
+<file name="TestSessionListener.php" server="C:/wamp64/www/" local="131780359392111116" remote="131780359390000000" Dst="1" />
+<file name="TranslatorListener.php" server="C:/wamp64/www/" local="131780359392247517" remote="131780359390000000" Dst="1" />
+<file name="ValidateRequestListener.php" server="C:/wamp64/www/" local="131780359392353338" remote="131780359390000000" Dst="1" />
+<file name="AbstractSessionListener.php" server="C:/wamp64/www/emobi/" local="131927358398358623" remote="131927358390000000" Dst="2" />
+<file name="AbstractTestSessionListener.php" server="C:/wamp64/www/emobi/" local="131927358398506597" remote="131927358390000000" Dst="2" />
+<file name="AddRequestFormatsListener.php" server="C:/wamp64/www/emobi/" local="131927358398758360" remote="131927358390000000" Dst="2" />
+<file name="DebugHandlersListener.php" server="C:/wamp64/www/emobi/" local="131927358398928223" remote="131927358390000000" Dst="2" />
+<file name="DumpListener.php" server="C:/wamp64/www/emobi/" local="131927358399107082" remote="131927358390000000" Dst="2" />
+<file name="ExceptionListener.php" server="C:/wamp64/www/emobi/" local="131927358399305719" remote="131927358390000000" Dst="2" />
+<file name="FragmentListener.php" server="C:/wamp64/www/emobi/" local="131927358399808408" remote="131927358390000000" Dst="2" />
+<file name="LocaleListener.php" server="C:/wamp64/www/emobi/" local="131927358400005458" remote="131927358400000000" Dst="2" />
+<file name="ProfilerListener.php" server="C:/wamp64/www/emobi/" local="131927358400209583" remote="131927358400000000" Dst="2" />
+<file name="ResponseListener.php" server="C:/wamp64/www/emobi/" local="131927358400209583" remote="131927358400000000" Dst="2" />
+<file name="RouterListener.php" server="C:/wamp64/www/emobi/" local="131927358400209583" remote="131927358400000000" Dst="2" />
+<file name="SaveSessionListener.php" server="C:/wamp64/www/emobi/" local="131927358400309299" remote="131927358400000000" Dst="2" />
+<file name="SessionListener.php" server="C:/wamp64/www/emobi/" local="131927358400506177" remote="131927358400000000" Dst="2" />
+<file name="StreamedResponseListener.php" server="C:/wamp64/www/emobi/" local="131927358400605101" remote="131927358400000000" Dst="2" />
+<file name="SurrogateListener.php" server="C:/wamp64/www/emobi/" local="131927358400709062" remote="131927358400000000" Dst="2" />
+<file name="TestSessionListener.php" server="C:/wamp64/www/emobi/" local="131927358400804492" remote="131927358400000000" Dst="2" />
+<file name="TranslatorListener.php" server="C:/wamp64/www/emobi/" local="131927358400930672" remote="131927358400000000" Dst="2" />
+<file name="ValidateRequestListener.php" server="C:/wamp64/www/emobi/" local="131927358401108451" remote="131927358400000000" Dst="2" />
+</dwsync>

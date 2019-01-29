@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="DelegatingLoader.php" server="C:/wamp64/www/" local="131780359479494910" remote="131780359470000000" Dst="1" />
+<file name="FileLoader.php" server="C:/wamp64/www/" local="131780359479613044" remote="131780359470000000" Dst="1" />
+<file name="GlobFileLoader.php" server="C:/wamp64/www/" local="131780359479713246" remote="131780359470000000" Dst="1" />
+<file name="Loader.php" server="C:/wamp64/www/" local="131780359479812289" remote="131780359470000000" Dst="1" />
+<file name="LoaderInterface.php" server="C:/wamp64/www/" local="131780359479936691" remote="131780359470000000" Dst="1" />
+<file name="LoaderResolver.php" server="C:/wamp64/www/" local="131780359480001941" remote="131780359480000000" Dst="1" />
+<file name="LoaderResolverInterface.php" server="C:/wamp64/www/" local="131780359480112855" remote="131780359480000000" Dst="1" />
+<file name="DelegatingLoader.php" server="C:/wamp64/www/emobi/" local="131927358531509232" remote="131927358530000000" Dst="2" />
+<file name="FileLoader.php" server="C:/wamp64/www/emobi/" local="131927358531608875" remote="131927358530000000" Dst="2" />
+<file name="GlobFileLoader.php" server="C:/wamp64/www/emobi/" local="131927358531807147" remote="131927358530000000" Dst="2" />
+<file name="Loader.php" server="C:/wamp64/www/emobi/" local="131927358531905902" remote="131927358530000000" Dst="2" />
+<file name="LoaderInterface.php" server="C:/wamp64/www/emobi/" local="131927358532107228" remote="131927358530000000" Dst="2" />
+<file name="LoaderResolver.php" server="C:/wamp64/www/emobi/" local="131927358532205862" remote="131927358530000000" Dst="2" />
+<file name="LoaderResolverInterface.php" server="C:/wamp64/www/emobi/" local="131927358532408392" remote="131927358530000000" Dst="2" />
+</dwsync>

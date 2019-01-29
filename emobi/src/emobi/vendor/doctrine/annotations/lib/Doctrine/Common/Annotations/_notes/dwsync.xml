@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="Annotation.php" server="C:/wamp64/www/" local="131726726369469778" remote="131726726360000000" Dst="1" />
+<file name="AnnotationException.php" server="C:/wamp64/www/" local="131726726371920136" remote="131726726370000000" Dst="1" />
+<file name="AnnotationReader.php" server="C:/wamp64/www/" local="131726726372049790" remote="131726726370000000" Dst="1" />
+<file name="AnnotationRegistry.php" server="C:/wamp64/www/" local="131726726372219339" remote="131726726370000000" Dst="1" />
+<file name="CachedReader.php" server="C:/wamp64/www/" local="131726726372339032" remote="131726726370000000" Dst="1" />
+<file name="DocLexer.php" server="C:/wamp64/www/" local="131726726372478654" remote="131726726370000000" Dst="1" />
+<file name="DocParser.php" server="C:/wamp64/www/" local="131726726372608293" remote="131726726370000000" Dst="1" />
+<file name="FileCacheReader.php" server="C:/wamp64/www/" local="131726726372950540" remote="131726726370000000" Dst="1" />
+<file name="IndexedReader.php" server="C:/wamp64/www/" local="131726726373120051" remote="131726726370000000" Dst="1" />
+<file name="PhpParser.php" server="C:/wamp64/www/" local="131726726373240167" remote="131726726370000000" Dst="1" />
+<file name="Reader.php" server="C:/wamp64/www/" local="131726726373350213" remote="131726726370000000" Dst="1" />
+<file name="SimpleAnnotationReader.php" server="C:/wamp64/www/" local="131726726373539411" remote="131726726370000000" Dst="1" />
+<file name="TokenParser.php" server="C:/wamp64/www/" local="131726726374000068" remote="131726726370000000" Dst="1" />
+<file name="Annotation.php" server="C:/wamp64/www/emobi/" local="131726726380000000" remote="131726690380000000" Dst="2" />
+<file name="AnnotationException.php" server="C:/wamp64/www/emobi/" local="131726726380000000" remote="131726690380000000" Dst="2" />
+<file name="AnnotationReader.php" server="C:/wamp64/www/emobi/" local="131726726380000000" remote="131726690380000000" Dst="2" />
+<file name="AnnotationRegistry.php" server="C:/wamp64/www/emobi/" local="131726726380000000" remote="131726690380000000" Dst="2" />
+<file name="CachedReader.php" server="C:/wamp64/www/emobi/" local="131726726380000000" remote="131726690380000000" Dst="2" />
+<file name="DocLexer.php" server="C:/wamp64/www/emobi/" local="131726726380000000" remote="131726690380000000" Dst="2" />
+<file name="DocParser.php" server="C:/wamp64/www/emobi/" local="131726726380000000" remote="131726690380000000" Dst="2" />
+<file name="FileCacheReader.php" server="C:/wamp64/www/emobi/" local="131726726380000000" remote="131726690380000000" Dst="2" />
+<file name="IndexedReader.php" server="C:/wamp64/www/emobi/" local="131726726380000000" remote="131726690380000000" Dst="2" />
+<file name="PhpParser.php" server="C:/wamp64/www/emobi/" local="131726726380000000" remote="131726690380000000" Dst="2" />
+<file name="Reader.php" server="C:/wamp64/www/emobi/" local="131726726380000000" remote="131726690380000000" Dst="2" />
+<file name="SimpleAnnotationReader.php" server="C:/wamp64/www/emobi/" local="131726726380000000" remote="131726690380000000" Dst="2" />
+<file name="TokenParser.php" server="C:/wamp64/www/emobi/" local="131726726380000000" remote="131726690380000000" Dst="2" />
+</dwsync>

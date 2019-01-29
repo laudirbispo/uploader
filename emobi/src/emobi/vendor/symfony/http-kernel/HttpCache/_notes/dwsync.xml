@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AbstractSurrogate.php" server="C:/wamp64/www/" local="131780359396849184" remote="131780359390000000" Dst="1" />
+<file name="Esi.php" server="C:/wamp64/www/" local="131780359397015097" remote="131780359390000000" Dst="1" />
+<file name="HttpCache.php" server="C:/wamp64/www/" local="131780359397213478" remote="131780359390000000" Dst="1" />
+<file name="ResponseCacheStrategy.php" server="C:/wamp64/www/" local="131780359397398603" remote="131780359390000000" Dst="1" />
+<file name="ResponseCacheStrategyInterface.php" server="C:/wamp64/www/" local="131780359397498367" remote="131780359390000000" Dst="1" />
+<file name="Ssi.php" server="C:/wamp64/www/" local="131780359397512821" remote="131780359390000000" Dst="1" />
+<file name="Store.php" server="C:/wamp64/www/" local="131780359397652054" remote="131780359390000000" Dst="1" />
+<file name="StoreInterface.php" server="C:/wamp64/www/" local="131780359397813032" remote="131780359390000000" Dst="1" />
+<file name="SubRequestHandler.php" server="C:/wamp64/www/" local="131780359397915183" remote="131780359390000000" Dst="1" />
+<file name="SurrogateInterface.php" server="C:/wamp64/www/" local="131780359398112367" remote="131780359390000000" Dst="1" />
+<file name="AbstractSurrogate.php" server="C:/wamp64/www/emobi/" local="131927358405308773" remote="131927358400000000" Dst="2" />
+<file name="Esi.php" server="C:/wamp64/www/emobi/" local="131927358405505467" remote="131927358400000000" Dst="2" />
+<file name="HttpCache.php" server="C:/wamp64/www/emobi/" local="131927358405605468" remote="131927358400000000" Dst="2" />
+<file name="ResponseCacheStrategy.php" server="C:/wamp64/www/emobi/" local="131927358405857770" remote="131927358400000000" Dst="2" />
+<file name="ResponseCacheStrategyInterface.php" server="C:/wamp64/www/emobi/" local="131927358406008627" remote="131927358400000000" Dst="2" />
+<file name="Ssi.php" server="C:/wamp64/www/emobi/" local="131927358406109136" remote="131927358400000000" Dst="2" />
+<file name="Store.php" server="C:/wamp64/www/emobi/" local="131927358406208961" remote="131927358400000000" Dst="2" />
+<file name="StoreInterface.php" server="C:/wamp64/www/emobi/" local="131927358406405860" remote="131927358400000000" Dst="2" />
+<file name="SubRequestHandler.php" server="C:/wamp64/www/emobi/" local="131927358406505039" remote="131927358400000000" Dst="2" />
+<file name="SurrogateInterface.php" server="C:/wamp64/www/emobi/" local="131927358406605569" remote="131927358400000000" Dst="2" />
+</dwsync>

@@ -1,0 +1,22 @@
+/* CSS Document */
+.cropit{margin: auto; max-width: 250px}
+.cropit-preview {
+	background-color: #f8f8f8;
+	background-size: cover;
+	border: 5px solid #ccc;
+	border-radius: 3px;
+	margin-top: 7px;
+	width: 256px;
+	height: 256px;
+}
+.cropit-image-zoom-input {max-width: 256px;margin-top: 30px;}
+.cropit-preview-image-container {
+	cursor: move;
+}
+.cropit-preview-background {
+	opacity: .2;
+	cursor: auto;
+}
+.image-size-label {
+	margin-top: 10px;
+}

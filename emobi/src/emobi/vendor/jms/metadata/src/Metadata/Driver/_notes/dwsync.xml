@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AbstractFileDriver.php" server="C:/wamp64/www/" local="131726726467926382" remote="131726726460000000" Dst="1" />
+<file name="AdvancedDriverInterface.php" server="C:/wamp64/www/" local="131726726468016144" remote="131726726460000000" Dst="1" />
+<file name="AdvancedFileLocatorInterface.php" server="C:/wamp64/www/" local="131726726468095602" remote="131726726460000000" Dst="1" />
+<file name="DriverChain.php" server="C:/wamp64/www/" local="131726726468268010" remote="131726726460000000" Dst="1" />
+<file name="DriverInterface.php" server="C:/wamp64/www/" local="131726726468347706" remote="131726726460000000" Dst="1" />
+<file name="FileLocator.php" server="C:/wamp64/www/" local="131726726468467384" remote="131726726460000000" Dst="1" />
+<file name="FileLocatorInterface.php" server="C:/wamp64/www/" local="131726726468773489" remote="131726726460000000" Dst="1" />
+<file name="LazyLoadingDriver.php" server="C:/wamp64/www/" local="131726726468873518" remote="131726726460000000" Dst="1" />
+<file name="AbstractFileDriver.php" server="C:/wamp64/www/emobi/" local="131927358774007207" remote="131927358770000000" Dst="2" />
+<file name="AdvancedDriverInterface.php" server="C:/wamp64/www/emobi/" local="131927358774207845" remote="131927358770000000" Dst="2" />
+<file name="AdvancedFileLocatorInterface.php" server="C:/wamp64/www/emobi/" local="131927358774308224" remote="131927358770000000" Dst="2" />
+<file name="DriverChain.php" server="C:/wamp64/www/emobi/" local="131927358774407957" remote="131927358770000000" Dst="2" />
+<file name="DriverInterface.php" server="C:/wamp64/www/emobi/" local="131927358774605891" remote="131927358770000000" Dst="2" />
+<file name="FileLocator.php" server="C:/wamp64/www/emobi/" local="131927358774706277" remote="131927358770000000" Dst="2" />
+<file name="FileLocatorInterface.php" server="C:/wamp64/www/emobi/" local="131927358774907204" remote="131927358770000000" Dst="2" />
+<file name="LazyLoadingDriver.php" server="C:/wamp64/www/emobi/" local="131927358775008019" remote="131927358770000000" Dst="2" />
+</dwsync>

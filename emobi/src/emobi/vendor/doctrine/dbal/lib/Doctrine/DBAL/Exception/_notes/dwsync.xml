@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="ConnectionException.php" server="C:/wamp64/www/" local="131702641047216126" remote="131702641040000000" Dst="1" />
+<file name="ConstraintViolationException.php" server="C:/wamp64/www/" local="131702641047372388" remote="131702641040000000" Dst="1" />
+<file name="DatabaseObjectExistsException.php" server="C:/wamp64/www/" local="131702641047372388" remote="131702641040000000" Dst="1" />
+<file name="DatabaseObjectNotFoundException.php" server="C:/wamp64/www/" local="131702641047528665" remote="131702641040000000" Dst="1" />
+<file name="DeadlockException.php" server="C:/wamp64/www/" local="131702641047740447" remote="131702641040000000" Dst="1" />
+<file name="DriverException.php" server="C:/wamp64/www/" local="131702641047900462" remote="131702641040000000" Dst="1" />
+<file name="ForeignKeyConstraintViolationException.php" server="C:/wamp64/www/" local="131702641047900462" remote="131702641040000000" Dst="1" />
+<file name="InvalidArgumentException.php" server="C:/wamp64/www/" local="131702641048056720" remote="131702641040000000" Dst="1" />
+<file name="InvalidFieldNameException.php" server="C:/wamp64/www/" local="131702641048212986" remote="131702641040000000" Dst="1" />
+<file name="LockWaitTimeoutException.php" server="C:/wamp64/www/" local="131702641048212986" remote="131702641040000000" Dst="1" />
+<file name="NonUniqueFieldNameException.php" server="C:/wamp64/www/" local="131702641048368923" remote="131702641040000000" Dst="1" />
+<file name="NotNullConstraintViolationException.php" server="C:/wamp64/www/" local="131702641048721580" remote="131702641040000000" Dst="1" />
+<file name="ReadOnlyException.php" server="C:/wamp64/www/" local="131702641048746652" remote="131702641040000000" Dst="1" />
+<file name="RetryableException.php" server="C:/wamp64/www/" local="131702641048902997" remote="131702641040000000" Dst="1" />
+<file name="ServerException.php" server="C:/wamp64/www/" local="131702641048902997" remote="131702641040000000" Dst="1" />
+<file name="SyntaxErrorException.php" server="C:/wamp64/www/" local="131702641049059225" remote="131702641040000000" Dst="1" />
+<file name="TableExistsException.php" server="C:/wamp64/www/" local="131702641049215532" remote="131702641040000000" Dst="1" />
+<file name="TableNotFoundException.php" server="C:/wamp64/www/" local="131702641049215532" remote="131702641040000000" Dst="1" />
+<file name="UniqueConstraintViolationException.php" server="C:/wamp64/www/" local="131702641049745192" remote="131702641040000000" Dst="1" />
+<file name="ConnectionException.php" server="C:/wamp64/www/emobi/" local="131702641060000000" remote="131702605060000000" Dst="2" />
+<file name="ConstraintViolationException.php" server="C:/wamp64/www/emobi/" local="131702641060000000" remote="131702605060000000" Dst="2" />
+<file name="DatabaseObjectExistsException.php" server="C:/wamp64/www/emobi/" local="131702641060000000" remote="131702605060000000" Dst="2" />
+<file name="DatabaseObjectNotFoundException.php" server="C:/wamp64/www/emobi/" local="131702641060000000" remote="131702605060000000" Dst="2" />
+<file name="DeadlockException.php" server="C:/wamp64/www/emobi/" local="131702641060000000" remote="131702605060000000" Dst="2" />
+<file name="DriverException.php" server="C:/wamp64/www/emobi/" local="131702641060000000" remote="131702605060000000" Dst="2" />
+<file name="ForeignKeyConstraintViolationException.php" server="C:/wamp64/www/emobi/" local="131702641060000000" remote="131702605060000000" Dst="2" />
+<file name="InvalidArgumentException.php" server="C:/wamp64/www/emobi/" local="131702641060000000" remote="131702605060000000" Dst="2" />
+<file name="InvalidFieldNameException.php" server="C:/wamp64/www/emobi/" local="131702641060000000" remote="131702605060000000" Dst="2" />
+<file name="LockWaitTimeoutException.php" server="C:/wamp64/www/emobi/" local="131702641060000000" remote="131702605060000000" Dst="2" />
+<file name="NonUniqueFieldNameException.php" server="C:/wamp64/www/emobi/" local="131702641060000000" remote="131702605060000000" Dst="2" />
+<file name="NotNullConstraintViolationException.php" server="C:/wamp64/www/emobi/" local="131702641060000000" remote="131702605060000000" Dst="2" />
+<file name="ReadOnlyException.php" server="C:/wamp64/www/emobi/" local="131702641060000000" remote="131702605060000000" Dst="2" />
+<file name="RetryableException.php" server="C:/wamp64/www/emobi/" local="131702641060000000" remote="131702605060000000" Dst="2" />
+<file name="ServerException.php" server="C:/wamp64/www/emobi/" local="131702641060000000" remote="131702605060000000" Dst="2" />
+<file name="SyntaxErrorException.php" server="C:/wamp64/www/emobi/" local="131702641060000000" remote="131702605060000000" Dst="2" />
+<file name="TableExistsException.php" server="C:/wamp64/www/emobi/" local="131702641060000000" remote="131702605060000000" Dst="2" />
+<file name="TableNotFoundException.php" server="C:/wamp64/www/emobi/" local="131702641060000000" remote="131702605060000000" Dst="2" />
+<file name="UniqueConstraintViolationException.php" server="C:/wamp64/www/emobi/" local="131702641060000000" remote="131702605060000000" Dst="2" />
+</dwsync>

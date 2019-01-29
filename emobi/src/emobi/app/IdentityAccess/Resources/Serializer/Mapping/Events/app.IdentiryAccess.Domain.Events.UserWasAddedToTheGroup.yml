@@ -1,0 +1,7 @@
+app\IdentityAccess\Domain\Events\UserWasAddedToTheGroup:
+    exclusion_policy: ALL
+    
+    properties:
+        groupId:
+            type: string
+            

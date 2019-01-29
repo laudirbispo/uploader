@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AbstractRedisCacheTest.php" server="C:/wamp64/www/" local="131780359136015508" remote="131780359130000000" Dst="1" />
+<file name="ApcuCacheTest.php" server="C:/wamp64/www/" local="131780359136140480" remote="131780359130000000" Dst="1" />
+<file name="ArrayCacheTest.php" server="C:/wamp64/www/" local="131780359136205771" remote="131780359130000000" Dst="1" />
+<file name="CacheTestCase.php" server="C:/wamp64/www/" local="131780359136312351" remote="131780359130000000" Dst="1" />
+<file name="ChainCacheTest.php" server="C:/wamp64/www/" local="131780359136511457" remote="131780359130000000" Dst="1" />
+<file name="DoctrineCacheTest.php" server="C:/wamp64/www/" local="131780359136913150" remote="131780359130000000" Dst="1" />
+<file name="FilesystemCacheTest.php" server="C:/wamp64/www/" local="131780359137054388" remote="131780359130000000" Dst="1" />
+<file name="MemcachedCacheTest.php" server="C:/wamp64/www/" local="131780359137285268" remote="131780359130000000" Dst="1" />
+<file name="MemcachedCacheTextModeTest.php" server="C:/wamp64/www/" local="131780359137374736" remote="131780359130000000" Dst="1" />
+<file name="NullCacheTest.php" server="C:/wamp64/www/" local="131780359137504386" remote="131780359130000000" Dst="1" />
+<file name="PdoCacheTest.php" server="C:/wamp64/www/" local="131780359137517865" remote="131780359130000000" Dst="1" />
+<file name="PdoDbalCacheTest.php" server="C:/wamp64/www/" local="131780359137653881" remote="131780359130000000" Dst="1" />
+<file name="PhpArrayCacheTest.php" server="C:/wamp64/www/" local="131780359137815690" remote="131780359130000000" Dst="1" />
+<file name="PhpArrayCacheWithFallbackTest.php" server="C:/wamp64/www/" local="131780359138012530" remote="131780359130000000" Dst="1" />
+<file name="PhpFilesCacheTest.php" server="C:/wamp64/www/" local="131780359138138273" remote="131780359130000000" Dst="1" />
+<file name="Psr6CacheTest.php" server="C:/wamp64/www/" local="131780359138198493" remote="131780359130000000" Dst="1" />
+<file name="RedisArrayCacheTest.php" server="C:/wamp64/www/" local="131780359138313606" remote="131780359130000000" Dst="1" />
+<file name="RedisCacheTest.php" server="C:/wamp64/www/" local="131780359138451627" remote="131780359130000000" Dst="1" />
+<file name="TraceableCacheTest.php" server="C:/wamp64/www/" local="131780359138552037" remote="131780359130000000" Dst="1" />
+<file name="AbstractRedisCacheTest.php" server="C:/wamp64/www/emobi/" local="131927358175212334" remote="131927358170000000" Dst="2" />
+<file name="ApcuCacheTest.php" server="C:/wamp64/www/emobi/" local="131927358175311528" remote="131927358170000000" Dst="2" />
+<file name="ArrayCacheTest.php" server="C:/wamp64/www/emobi/" local="131927358175508597" remote="131927358170000000" Dst="2" />
+<file name="CacheTestCase.php" server="C:/wamp64/www/emobi/" local="131927358175611368" remote="131927358170000000" Dst="2" />
+<file name="ChainCacheTest.php" server="C:/wamp64/www/emobi/" local="131927358175812411" remote="131927358170000000" Dst="2" />
+<file name="DoctrineCacheTest.php" server="C:/wamp64/www/emobi/" local="131927358176008714" remote="131927358170000000" Dst="2" />
+<file name="FilesystemCacheTest.php" server="C:/wamp64/www/emobi/" local="131927358176112681" remote="131927358170000000" Dst="2" />
+<file name="MemcachedCacheTest.php" server="C:/wamp64/www/emobi/" local="131927358176310697" remote="131927358170000000" Dst="2" />
+<file name="MemcachedCacheTextModeTest.php" server="C:/wamp64/www/emobi/" local="131927358176511289" remote="131927358170000000" Dst="2" />
+<file name="NullCacheTest.php" server="C:/wamp64/www/emobi/" local="131927358176609366" remote="131927358170000000" Dst="2" />
+<file name="PdoCacheTest.php" server="C:/wamp64/www/emobi/" local="131927358176812543" remote="131927358170000000" Dst="2" />
+<file name="PdoDbalCacheTest.php" server="C:/wamp64/www/emobi/" local="131927358176907826" remote="131927358170000000" Dst="2" />
+<file name="PhpArrayCacheTest.php" server="C:/wamp64/www/emobi/" local="131927358177111657" remote="131927358170000000" Dst="2" />
+<file name="PhpArrayCacheWithFallbackTest.php" server="C:/wamp64/www/emobi/" local="131927358177311118" remote="131927358170000000" Dst="2" />
+<file name="PhpFilesCacheTest.php" server="C:/wamp64/www/emobi/" local="131927358177461113" remote="131927358170000000" Dst="2" />
+<file name="Psr6CacheTest.php" server="C:/wamp64/www/emobi/" local="131927358177612318" remote="131927358170000000" Dst="2" />
+<file name="RedisArrayCacheTest.php" server="C:/wamp64/www/emobi/" local="131927358177746930" remote="131927358170000000" Dst="2" />
+<file name="RedisCacheTest.php" server="C:/wamp64/www/emobi/" local="131927358177911607" remote="131927358170000000" Dst="2" />
+<file name="TraceableCacheTest.php" server="C:/wamp64/www/emobi/" local="131927358178110154" remote="131927358170000000" Dst="2" />
+<file name="RedisClusterCacheTest.php" server="C:/wamp64/www/emobi/" local="131927358178008142" remote="131927358170000000" Dst="2" />
+</dwsync>

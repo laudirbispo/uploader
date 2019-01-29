@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AccessException.php" server="C:/wamp64/www/" local="131780359715015953" remote="131780359710000000" Dst="1" />
+<file name="ExceptionInterface.php" server="C:/wamp64/www/" local="131780359715111262" remote="131780359710000000" Dst="1" />
+<file name="InvalidArgumentException.php" server="C:/wamp64/www/" local="131780359715215089" remote="131780359710000000" Dst="1" />
+<file name="InvalidPropertyPathException.php" server="C:/wamp64/www/" local="131780359715313638" remote="131780359710000000" Dst="1" />
+<file name="NoSuchIndexException.php" server="C:/wamp64/www/" local="131780359715313638" remote="131780359710000000" Dst="1" />
+<file name="NoSuchPropertyException.php" server="C:/wamp64/www/" local="131780359715917518" remote="131780359710000000" Dst="1" />
+<file name="OutOfBoundsException.php" server="C:/wamp64/www/" local="131780359716013488" remote="131780359710000000" Dst="1" />
+<file name="RuntimeException.php" server="C:/wamp64/www/" local="131780359716013488" remote="131780359710000000" Dst="1" />
+<file name="UnexpectedTypeException.php" server="C:/wamp64/www/" local="131780359716111531" remote="131780359710000000" Dst="1" />
+<file name="AccessException.php" server="C:/wamp64/www/emobi/" local="131927358696310001" remote="131927358690000000" Dst="2" />
+<file name="ExceptionInterface.php" server="C:/wamp64/www/emobi/" local="131927358696406961" remote="131927358690000000" Dst="2" />
+<file name="InvalidArgumentException.php" server="C:/wamp64/www/emobi/" local="131927358696507529" remote="131927358690000000" Dst="2" />
+<file name="InvalidPropertyPathException.php" server="C:/wamp64/www/emobi/" local="131927358696608501" remote="131927358690000000" Dst="2" />
+<file name="NoSuchIndexException.php" server="C:/wamp64/www/emobi/" local="131927358696705633" remote="131927358690000000" Dst="2" />
+<file name="NoSuchPropertyException.php" server="C:/wamp64/www/emobi/" local="131927358696705633" remote="131927358690000000" Dst="2" />
+<file name="OutOfBoundsException.php" server="C:/wamp64/www/emobi/" local="131927358696807424" remote="131927358690000000" Dst="2" />
+<file name="RuntimeException.php" server="C:/wamp64/www/emobi/" local="131927358696907050" remote="131927358690000000" Dst="2" />
+<file name="UnexpectedTypeException.php" server="C:/wamp64/www/emobi/" local="131927358697007688" remote="131927358690000000" Dst="2" />
+</dwsync>

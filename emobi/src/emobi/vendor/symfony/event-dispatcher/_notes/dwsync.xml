@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name=".gitignore" server="C:/wamp64/www/" local="131780359299013777" remote="131780359290000000" Dst="1" />
+<file name="CHANGELOG.md" server="C:/wamp64/www/" local="131780359299167415" remote="131780359290000000" Dst="1" />
+<file name="composer.json" server="C:/wamp64/www/" local="131780359301716472" remote="131780359300000000" Dst="1" />
+<file name="Event.php" server="C:/wamp64/www/" local="131780359300016266" remote="131780359300000000" Dst="1" />
+<file name="EventDispatcher.php" server="C:/wamp64/www/" local="131780359300112380" remote="131780359300000000" Dst="1" />
+<file name="EventDispatcherInterface.php" server="C:/wamp64/www/" local="131780359300213333" remote="131780359300000000" Dst="1" />
+<file name="EventSubscriberInterface.php" server="C:/wamp64/www/" local="131780359300314978" remote="131780359300000000" Dst="1" />
+<file name="GenericEvent.php" server="C:/wamp64/www/" local="131780359300516844" remote="131780359300000000" Dst="1" />
+<file name="ImmutableEventDispatcher.php" server="C:/wamp64/www/" local="131780359300607275" remote="131780359300000000" Dst="1" />
+<file name="LICENSE" server="C:/wamp64/www/" local="131780359300607275" remote="131780359300000000" Dst="1" />
+<file name="phpunit.xml.dist" server="C:/wamp64/www/" local="131780359301814477" remote="131780359300000000" Dst="1" />
+<file name="README.md" server="C:/wamp64/www/" local="131780359300607275" remote="131780359300000000" Dst="1" />
+<file name=".gitignore" server="C:/wamp64/www/emobi/" local="131927358323308124" remote="131927358320000000" Dst="2" />
+<file name="CHANGELOG.md" server="C:/wamp64/www/emobi/" local="131927358323308124" remote="131927358320000000" Dst="2" />
+<file name="composer.json" server="C:/wamp64/www/emobi/" local="131927358327208336" remote="131927358320000000" Dst="2" />
+<file name="Event.php" server="C:/wamp64/www/emobi/" local="131927358324107617" remote="131927358320000000" Dst="2" />
+<file name="EventDispatcher.php" server="C:/wamp64/www/emobi/" local="131927358324310287" remote="131927358320000000" Dst="2" />
+<file name="EventDispatcherInterface.php" server="C:/wamp64/www/emobi/" local="131927358324609948" remote="131927358320000000" Dst="2" />
+<file name="EventSubscriberInterface.php" server="C:/wamp64/www/emobi/" local="131927358324807581" remote="131927358320000000" Dst="2" />
+<file name="GenericEvent.php" server="C:/wamp64/www/emobi/" local="131927358324909128" remote="131927358320000000" Dst="2" />
+<file name="ImmutableEventDispatcher.php" server="C:/wamp64/www/emobi/" local="131927358325108418" remote="131927358320000000" Dst="2" />
+<file name="LICENSE" server="C:/wamp64/www/emobi/" local="131927358325308215" remote="131927358320000000" Dst="2" />
+<file name="phpunit.xml.dist" server="C:/wamp64/www/emobi/" local="131927358327208336" remote="131927358320000000" Dst="2" />
+<file name="README.md" server="C:/wamp64/www/emobi/" local="131927358325308215" remote="131927358320000000" Dst="2" />
+</dwsync>

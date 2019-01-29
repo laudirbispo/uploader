@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AggregateIsCorruptedException.php" server="C:/wamp64/www/" local="131825449157273011" remote="131825449150000000" Dst="1" />
+<file name="InvalidEventException.php" server="C:/wamp64/www/" local="131825448751980012" remote="131825448750000000" Dst="1" />
+<file name="DomainLogicException.php" server="C:/wamp64/www/" local="131825449007126540" remote="131825449000000000" Dst="1" />
+<file name="EventStoreUnavailable.php" server="C:/wamp64/www/" local="131825448873240691" remote="131825448870000000" Dst="1" />
+<file name="ReconstituteEventsUnavailable.php" server="C:/wamp64/www/" local="131825448630216671" remote="131825448630000000" Dst="1" />
+<file name="CQRSESException.php" server="C:/wamp64/www/" local="131825448339261580" remote="131825448330000000" Dst="1" />
+<file name="AggregateIsCorruptedException.php" server="C:/wamp64/www/emobi/" local="131825449160000000" remote="131825413160000000" Dst="2" />
+<file name="CQRSESException.php" server="C:/wamp64/www/emobi/" local="131825448340000000" remote="131825412340000000" Dst="2" />
+<file name="DomainLogicException.php" server="C:/wamp64/www/emobi/" local="131825449020000000" remote="131825413020000000" Dst="2" />
+<file name="EventStoreUnavailable.php" server="C:/wamp64/www/emobi/" local="131825448880000000" remote="131825412880000000" Dst="2" />
+<file name="InvalidEventException.php" server="C:/wamp64/www/emobi/" local="131825448760000000" remote="131825412760000000" Dst="2" />
+<file name="ReconstituteEventsUnavailable.php" server="C:/wamp64/www/emobi/" local="131825448640000000" remote="131825412640000000" Dst="2" />
+</dwsync>

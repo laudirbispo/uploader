@@ -1,0 +1,30 @@
+app\IdentityAccess\Domain\Events\AccountWasCreatedByAdmin:
+    exclusion_policy: ALL
+    
+    properties:
+        username:
+            type: string
+            
+        password: 
+            type: string
+  
+        email:
+            type: string
+        
+        role:
+            type: string
+        
+        accountStatus:
+            type: string
+            
+        securityKey:
+            type: string
+            
+        created:
+            type: string
+            
+        
+            
+        
+            
+        

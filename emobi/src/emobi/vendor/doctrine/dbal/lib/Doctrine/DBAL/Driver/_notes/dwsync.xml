@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AbstractDB2Driver.php" server="C:/wamp64/www/" local="131702641033188702" remote="131702641030000000" Dst="1" />
+<file name="AbstractDriverException.php" server="C:/wamp64/www/" local="131702641033344968" remote="131702641030000000" Dst="1" />
+<file name="AbstractMySQLDriver.php" server="C:/wamp64/www/" local="131702641033672591" remote="131702641030000000" Dst="1" />
+<file name="AbstractOracleDriver.php" server="C:/wamp64/www/" local="131702641033722757" remote="131702641030000000" Dst="1" />
+<file name="AbstractPostgreSQLDriver.php" server="C:/wamp64/www/" local="131702641034445908" remote="131702641030000000" Dst="1" />
+<file name="AbstractSQLAnywhereDriver.php" server="C:/wamp64/www/" local="131702641034722573" remote="131702641030000000" Dst="1" />
+<file name="AbstractSQLiteDriver.php" server="C:/wamp64/www/" local="131702641035720384" remote="131702641030000000" Dst="1" />
+<file name="AbstractSQLServerDriver.php" server="C:/wamp64/www/" local="131702641034878853" remote="131702641030000000" Dst="1" />
+<file name="Connection.php" server="C:/wamp64/www/" local="131702641035878171" remote="131702641030000000" Dst="1" />
+<file name="DriverException.php" server="C:/wamp64/www/" local="131702641036503264" remote="131702641030000000" Dst="1" />
+<file name="ExceptionConverterDriver.php" server="C:/wamp64/www/" local="131702641037037327" remote="131702641030000000" Dst="1" />
+<file name="PDOConnection.php" server="C:/wamp64/www/" local="131702641039353606" remote="131702641030000000" Dst="1" />
+<file name="PDOException.php" server="C:/wamp64/www/" local="131702641039509887" remote="131702641030000000" Dst="1" />
+<file name="PDOStatement.php" server="C:/wamp64/www/" local="131702641041682878" remote="131702641040000000" Dst="1" />
+<file name="PingableConnection.php" server="C:/wamp64/www/" local="131702641041732696" remote="131702641040000000" Dst="1" />
+<file name="ResultStatement.php" server="C:/wamp64/www/" local="131702641041889033" remote="131702641040000000" Dst="1" />
+<file name="ServerInfoAwareConnection.php" server="C:/wamp64/www/" local="131702641044051320" remote="131702641040000000" Dst="1" />
+<file name="Statement.php" server="C:/wamp64/www/" local="131702641044364139" remote="131702641040000000" Dst="1" />
+<file name="StatementIterator.php" server="C:/wamp64/www/" local="131702641044364139" remote="131702641040000000" Dst="1" />
+<file name="AbstractDB2Driver.php" server="C:/wamp64/www/emobi/" local="131702641040000000" remote="131702605040000000" Dst="2" />
+<file name="AbstractDriverException.php" server="C:/wamp64/www/emobi/" local="131702641040000000" remote="131702605040000000" Dst="2" />
+<file name="AbstractMySQLDriver.php" server="C:/wamp64/www/emobi/" local="131702641040000000" remote="131702605040000000" Dst="2" />
+<file name="AbstractOracleDriver.php" server="C:/wamp64/www/emobi/" local="131702641040000000" remote="131702605040000000" Dst="2" />
+<file name="AbstractPostgreSQLDriver.php" server="C:/wamp64/www/emobi/" local="131702641040000000" remote="131702605040000000" Dst="2" />
+<file name="AbstractSQLAnywhereDriver.php" server="C:/wamp64/www/emobi/" local="131702641040000000" remote="131702605040000000" Dst="2" />
+<file name="AbstractSQLiteDriver.php" server="C:/wamp64/www/emobi/" local="131702641040000000" remote="131702605040000000" Dst="2" />
+<file name="AbstractSQLServerDriver.php" server="C:/wamp64/www/emobi/" local="131702641040000000" remote="131702605040000000" Dst="2" />
+<file name="Connection.php" server="C:/wamp64/www/emobi/" local="131702641040000000" remote="131702605040000000" Dst="2" />
+<file name="DriverException.php" server="C:/wamp64/www/emobi/" local="131702641040000000" remote="131702605040000000" Dst="2" />
+<file name="ExceptionConverterDriver.php" server="C:/wamp64/www/emobi/" local="131702641040000000" remote="131702605040000000" Dst="2" />
+<file name="PDOConnection.php" server="C:/wamp64/www/emobi/" local="131702641040000000" remote="131702605040000000" Dst="2" />
+<file name="PDOException.php" server="C:/wamp64/www/emobi/" local="131702641040000000" remote="131702605040000000" Dst="2" />
+<file name="PDOStatement.php" server="C:/wamp64/www/emobi/" local="131702641060000000" remote="131702605060000000" Dst="2" />
+<file name="PingableConnection.php" server="C:/wamp64/www/emobi/" local="131702641060000000" remote="131702605060000000" Dst="2" />
+<file name="ResultStatement.php" server="C:/wamp64/www/emobi/" local="131702641060000000" remote="131702605060000000" Dst="2" />
+<file name="ServerInfoAwareConnection.php" server="C:/wamp64/www/emobi/" local="131702641060000000" remote="131702605060000000" Dst="2" />
+<file name="Statement.php" server="C:/wamp64/www/emobi/" local="131702641060000000" remote="131702605060000000" Dst="2" />
+<file name="StatementIterator.php" server="C:/wamp64/www/emobi/" local="131702641060000000" remote="131702605060000000" Dst="2" />
+</dwsync>

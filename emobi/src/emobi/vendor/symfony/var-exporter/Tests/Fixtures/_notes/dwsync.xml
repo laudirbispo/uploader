@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="abstract-parent.php" server="C:/wamp64/www/emobi/" local="131927358099662205" remote="131927358090000000" Dst="2" />
+<file name="array-iterator.php" server="C:/wamp64/www/emobi/" local="131927358099707653" remote="131927358090000000" Dst="2" />
+<file name="array-object-custom.php" server="C:/wamp64/www/emobi/" local="131927358099805782" remote="131927358090000000" Dst="2" />
+<file name="array-object.php" server="C:/wamp64/www/emobi/" local="131927358099908290" remote="131927358090000000" Dst="2" />
+<file name="bool.php" server="C:/wamp64/www/emobi/" local="131927358100009414" remote="131927358100000000" Dst="2" />
+<file name="clone.php" server="C:/wamp64/www/emobi/" local="131927358100108814" remote="131927358100000000" Dst="2" />
+<file name="datetime.php" server="C:/wamp64/www/emobi/" local="131927358100204851" remote="131927358100000000" Dst="2" />
+<file name="error.php" server="C:/wamp64/www/emobi/" local="131927358100309531" remote="131927358100000000" Dst="2" />
+<file name="external-references.php" server="C:/wamp64/www/emobi/" local="131927358100405638" remote="131927358100000000" Dst="2" />
+<file name="final-array-iterator.php" server="C:/wamp64/www/emobi/" local="131927358100508620" remote="131927358100000000" Dst="2" />
+<file name="final-error.php" server="C:/wamp64/www/emobi/" local="131927358100664627" remote="131927358100000000" Dst="2" />
+<file name="final-stdclass.php" server="C:/wamp64/www/emobi/" local="131927358100807264" remote="131927358100000000" Dst="2" />
+<file name="foo-serializable.php" server="C:/wamp64/www/emobi/" local="131927358100908603" remote="131927358100000000" Dst="2" />
+<file name="hard-references-recursive.php" server="C:/wamp64/www/emobi/" local="131927358101008255" remote="131927358100000000" Dst="2" />
+<file name="hard-references.php" server="C:/wamp64/www/emobi/" local="131927358101109493" remote="131927358100000000" Dst="2" />
+<file name="incomplete-class.php" server="C:/wamp64/www/emobi/" local="131927358101209526" remote="131927358100000000" Dst="2" />
+<file name="multiline-string.php" server="C:/wamp64/www/emobi/" local="131927358101305589" remote="131927358100000000" Dst="2" />
+<file name="partially-indexed-array.php" server="C:/wamp64/www/emobi/" local="131927358101409766" remote="131927358100000000" Dst="2" />
+<file name="private.php" server="C:/wamp64/www/emobi/" local="131927358101507163" remote="131927358100000000" Dst="2" />
+<file name="serializable.php" server="C:/wamp64/www/emobi/" local="131927358101607347" remote="131927358100000000" Dst="2" />
+<file name="simple-array.php" server="C:/wamp64/www/emobi/" local="131927358101705614" remote="131927358100000000" Dst="2" />
+<file name="spl-object-storage.php" server="C:/wamp64/www/emobi/" local="131927358101807475" remote="131927358100000000" Dst="2" />
+<file name="var-on-sleep.php" server="C:/wamp64/www/emobi/" local="131927358101909458" remote="131927358100000000" Dst="2" />
+<file name="wakeup-refl.php" server="C:/wamp64/www/emobi/" local="131927358102010261" remote="131927358100000000" Dst="2" />
+<file name="wakeup.php" server="C:/wamp64/www/emobi/" local="131927358102109680" remote="131927358100000000" Dst="2" />
+</dwsync>
