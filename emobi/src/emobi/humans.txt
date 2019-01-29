@@ -1,8 +1,0 @@
-﻿/* Helo humans! */
-
-Este SOFTWARE é protegido por leis de copyright e tratados internacionais relatiDtos a direitos autorais, bem como por outras 
-legislações e tratados sobre propriedade intelectual.
-
-Copyright (C) 2017-2019
-Autor e proprietário: Laudir Bispo
-Contato: laudirbispo@outlook.com, laudirbispo@gmail.com
